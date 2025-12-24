@@ -1,10 +1,10 @@
-<Stats deaths="599" kills="156" player_kills="1" player_projectile_count="0" >
+<Stats deaths="604" kills="162" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
     <E key="NULL | $damage_electricity" value="25" >
     </E>
-    <E key="NULL | $damage_explosion" value="237" >
+    <E key="NULL | $damage_explosion" value="239" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -58,7 +58,7 @@
     </E>
     <E key="player | $damage_fire" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="158" >
+    <E key="player | $damage_projectile" value="160" >
     </E>
     <E key="player | $damage_slice" value="13" >
     </E>
@@ -98,6 +98,8 @@
     </E>
     <E key="worm | worm bite" value="6" >
     </E>
+    <E key="zombie | $damage_melee" value="1" >
+    </E>
     <E key="zombie_weak | $damage_melee" value="2" >
     </E>
   </death_map>
@@ -126,7 +128,7 @@
     </E>
     <E key="player" value="1" >
     </E>
-    <E key="rat" value="83" >
+    <E key="rat" value="89" >
     </E>
     <E key="sheep" value="2" >
     </E>

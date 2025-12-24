@@ -1,12 +1,12 @@
-<Stats deaths="120" kills="56" player_kills="0" player_projectile_count="0" >
+<Stats deaths="125" kills="57" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="10" >
     </E>
     <E key="NULL | $damage_electricity" value="3" >
     </E>
-    <E key="NULL | $damage_explosion" value="36" >
+    <E key="NULL | $damage_explosion" value="37" >
     </E>
-    <E key="NULL | $damage_fire" value="9" >
+    <E key="NULL | $damage_fire" value="10" >
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
@@ -32,7 +32,7 @@
     </E>
     <E key="player | $damage_explosion" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="18" >
+    <E key="player | $damage_projectile" value="21" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>
@@ -70,7 +70,7 @@
     </E>
     <E key="radioactive_blob" value="1" >
     </E>
-    <E key="rat" value="28" >
+    <E key="rat" value="29" >
     </E>
     <E key="scorpion" value="1" >
     </E>

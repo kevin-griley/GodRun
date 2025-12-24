@@ -1,4 +1,4 @@
-<Stats deaths="27" kills="94" player_kills="1" player_projectile_count="0" >
+<Stats deaths="28" kills="106" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="1" >
     </E>
@@ -10,15 +10,19 @@
     </E>
     <E key="player | $damage_slice" value="3" >
     </E>
+    <E key="playerghost | $damage_slice" value="1" >
+    </E>
     <E key="sniper | $damage_explosion" value="1" >
     </E>
   </death_map>
   <kill_map>
-    <E key="acidshooter" value="1" >
+    <E key="acidshooter" value="2" >
     </E>
     <E key="acidshot" value="2" >
     </E>
     <E key="alchemist" value="1" >
+    </E>
+    <E key="ant" value="1" >
     </E>
     <E key="bat" value="5" >
     </E>
@@ -34,7 +38,7 @@
     </E>
     <E key="frog_big" value="2" >
     </E>
-    <E key="fungus" value="2" >
+    <E key="fungus" value="3" >
     </E>
     <E key="giantshooter" value="1" >
     </E>
@@ -48,27 +52,29 @@
     </E>
     <E key="player" value="1" >
     </E>
-    <E key="potion" value="2" >
+    <E key="playerghost" value="1" >
+    </E>
+    <E key="potion" value="3" >
     </E>
     <E key="rat" value="17" >
     </E>
-    <E key="scavenger_invis" value="1" >
+    <E key="scavenger_invis" value="2" >
     </E>
     <E key="shotgunner" value="10" >
     </E>
-    <E key="slimeshooter" value="5" >
+    <E key="slimeshooter" value="6" >
     </E>
     <E key="sniper" value="1" >
     </E>
     <E key="tank" value="1" >
     </E>
-    <E key="tentacler" value="1" >
+    <E key="tentacler" value="2" >
     </E>
     <E key="wizard_dark" value="1" >
     </E>
     <E key="wizard_tele" value="1" >
     </E>
-    <E key="zombie" value="5" >
+    <E key="zombie" value="9" >
     </E>
   </kill_map>
 </Stats>

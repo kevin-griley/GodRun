@@ -1,6 +1,6 @@
-<Stats deaths="1624" kills="368" player_kills="2" player_projectile_count="0" >
+<Stats deaths="1629" kills="369" player_kills="2" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="85" >
+    <E key="NULL | $damage_drowning" value="88" >
     </E>
     <E key="NULL | $damage_electricity" value="23" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
-    <E key="NULL | $damage_radioactive" value="210" >
+    <E key="NULL | $damage_radioactive" value="212" >
     </E>
     <E key="NULL | damage from material: Poison" value="1" >
     </E>
@@ -136,7 +136,7 @@
     </E>
     <E key="player" value="2" >
     </E>
-    <E key="rat" value="225" >
+    <E key="rat" value="226" >
     </E>
     <E key="scavenger_grenade" value="3" >
     </E>

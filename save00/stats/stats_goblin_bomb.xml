@@ -1,6 +1,6 @@
-<Stats deaths="573" kills="121" player_kills="0" player_projectile_count="0" >
+<Stats deaths="576" kills="121" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="25" >
+    <E key="NULL | $damage_drowning" value="26" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | $damage_radioactive" value="107" >
     </E>
-    <E key="NULL | damage from material: lava" value="39" >
+    <E key="NULL | damage from material: lava" value="40" >
     </E>
     <E key="bat | $damage_melee" value="3" >
     </E>
@@ -42,7 +42,7 @@
     </E>
     <E key="player | $damage_explosion" value="6" >
     </E>
-    <E key="player | $damage_projectile" value="177" >
+    <E key="player | $damage_projectile" value="178" >
     </E>
     <E key="player | $damage_slice" value="33" >
     </E>

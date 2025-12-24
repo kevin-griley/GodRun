@@ -19,13 +19,13 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="31.198" 
-    clouds_02_target="30.6019" 
+    clouds_01_target="14.2883" 
+    clouds_02_target="-7.34526" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="2" 
-    fog="0.708017" 
-    fog_target="0.713009" 
+    day_count="7" 
+    fog="0.465811" 
+    fog_target="0.460818" 
     global_genome_relations_modifier="0" 
     gore_multiplier="1" 
     gradient_sky_alpha_target="0" 
@@ -51,23 +51,23 @@
     player_polymorph_random_count="0" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0.708017" 
-    rain_target="0.713009" 
+    rain="0.00499067" 
+    rain_target="0" 
     session_stat_file="??STA/sessions/20251224-001525" 
     sky_sunset_alpha_target="1" 
-    time="0.529839" 
+    time="0.751841" 
     time_dt="1" 
-    time_total="1.54408" 
+    time_total="6.74926" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="0.2742" 
-    wind_speed="16.4521" 
+    wind="0.150347" 
+    wind_speed="9.02088" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
       <E 
         key="HELPLESS_KILLS" 
-        value="2" >
+        value="3" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
@@ -86,7 +86,15 @@
         value="1" >
       </E>
       <E 
+        key="PERK_PICKED_RADAR_ENEMY_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_ACTIVE_-359_1307" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_2843" 
         value="1" >
       </E>
       <E 
@@ -94,8 +102,12 @@
         value="1" >
       </E>
       <E 
+        key="TEMPLE_LEAKED_0_5" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="4" >
+        value="7" >
       </E>
       <E 
         key="TEMPLE_SPAWN_GUARDIAN" 
@@ -103,11 +115,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_holymountain,$biome_excavationsite,_EMPTY_,$biome_coalmine,$biome_holymou" >
+        value="$biome_snowcave,$biome_fungicave,$biome_holymountain,$biome_excavationsite,_EMPT" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="8" >
+        value="10" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -139,6 +151,21 @@
       </string>
       <string>
         new_kill_miner_santa
+      </string>
+      <string>
+        new_action_hitfx_toxic_charm
+      </string>
+      <string>
+        PERK_TELEPORTITIS_DODGE
+      </string>
+      <string>
+        PERK_RADAR_ENEMY
+      </string>
+      <string>
+        PERK_FIRE_GAS
+      </string>
+      <string>
+        PERK_PICKED_RADAR_ENEMY
       </string>
     </flags>
     <changed_materials>

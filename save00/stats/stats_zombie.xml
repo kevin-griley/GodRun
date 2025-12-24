@@ -1,10 +1,10 @@
-<Stats deaths="827" kills="62" player_kills="0" player_projectile_count="0" >
+<Stats deaths="845" kills="69" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="117" >
+    <E key="NULL | $damage_drowning" value="119" >
     </E>
     <E key="NULL | $damage_electricity" value="11" >
     </E>
-    <E key="NULL | $damage_explosion" value="162" >
+    <E key="NULL | $damage_explosion" value="166" >
     </E>
     <E key="NULL | $damage_fire" value="39" >
     </E>
@@ -38,9 +38,9 @@
     </E>
     <E key="fly | $damage_melee" value="2" >
     </E>
-    <E key="frog | $damage_melee" value="10" >
+    <E key="frog | $damage_melee" value="12" >
     </E>
-    <E key="frog_big | $damage_melee" value="4" >
+    <E key="frog_big | $damage_melee" value="5" >
     </E>
     <E key="longleg | $damage_melee" value="2" >
     </E>
@@ -64,13 +64,15 @@
     </E>
     <E key="player | $damage_ice" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="118" >
+    <E key="player | $damage_projectile" value="122" >
     </E>
     <E key="player | $damage_slice" value="13" >
     </E>
     <E key="playerghost | $damage_melee" value="3" >
     </E>
     <E key="playerghost | $damage_projectile" value="2" >
+    </E>
+    <E key="playerghost | $damage_slice" value="4" >
     </E>
     <E key="rat | $damage_melee" value="18" >
     </E>
@@ -136,6 +138,8 @@
     </E>
     <E key="wizard_dark | $damage_projectile" value="5" >
     </E>
+    <E key="wizard_swapper | $damage_projectile" value="1" >
+    </E>
     <E key="wizard_tele | $damage_projectile" value="5" >
     </E>
     <E key="worm | worm bite" value="7" >
@@ -146,11 +150,13 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="frog" value="10" >
+    <E key="blob" value="1" >
+    </E>
+    <E key="frog" value="12" >
     </E>
     <E key="longleg" value="2" >
     </E>
-    <E key="miniblob" value="7" >
+    <E key="miniblob" value="11" >
     </E>
     <E key="rat" value="33" >
     </E>

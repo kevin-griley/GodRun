@@ -1,4 +1,4 @@
-<Stats deaths="352" kills="79" player_kills="0" player_projectile_count="0" >
+<Stats deaths="354" kills="84" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="7" >
     </E>
@@ -48,7 +48,7 @@
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="147" >
+    <E key="player | $damage_projectile" value="148" >
     </E>
     <E key="player | $damage_slice" value="5" >
     </E>
@@ -77,6 +77,8 @@
     <E key="turret_left | $damage_projectile" value="1" >
     </E>
     <E key="turret_right | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_swapper | $damage_projectile" value="1" >
     </E>
     <E key="wizard_tele | $damage_explosion" value="1" >
     </E>
@@ -108,7 +110,7 @@
     </E>
     <E key="necromancer" value="1" >
     </E>
-    <E key="rat" value="25" >
+    <E key="rat" value="30" >
     </E>
     <E key="scorpion" value="12" >
     </E>
