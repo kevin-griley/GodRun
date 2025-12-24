@@ -1,0 +1,64 @@
+<Stats deaths="244" kills="29" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="14" >
+    </E>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="NULL | $damage_fire" value="10" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="14" >
+    </E>
+    <E key="NULL | damage from material: lava" value="2" >
+    </E>
+    <E key="contact_damage | $damage_curse" value="2" >
+    </E>
+    <E key="enlightened_alchemist | $damage_explosion" value="2" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="4" >
+    </E>
+    <E key="player | $damage_explosion" value="23" >
+    </E>
+    <E key="player | $damage_holy" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="159" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="slimeshooter_boss_limbs | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="2" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="3" >
+    </E>
+    <E key="worm | worm bite" value="3" >
+    </E>
+    <E key="wraith_glowing | $damage_holy" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="3" >
+    </E>
+    <E key="berserkspirit" value="1" >
+    </E>
+    <E key="failed_alchemist_b" value="1" >
+    </E>
+    <E key="necromancer" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="4" >
+    </E>
+    <E key="scorpion" value="8" >
+    </E>
+    <E key="shaman" value="2" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
+    <E key="tentacler" value="2" >
+    </E>
+    <E key="tentacler_small" value="4" >
+    </E>
+    <E key="wizard_hearty" value="1" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+  </kill_map>
+</Stats>

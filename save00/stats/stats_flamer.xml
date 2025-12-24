@@ -1,0 +1,38 @@
+<Stats deaths="54" kills="22" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="10" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="10" >
+    </E>
+    <E key="player | $damage_projectile" value="26" >
+    </E>
+    <E key="player | $damage_slice" value="4" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="dripping_water" value="1" >
+    </E>
+    <E key="longleg" value="3" >
+    </E>
+    <E key="miniblob" value="7" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="sniper" value="7" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,34 @@
+<Stats deaths="426" kills="1" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="308" >
+    </E>
+    <E key="NULL | $damage_fire" value="19" >
+    </E>
+    <E key="NULL | $damage_projectile" value="3" >
+    </E>
+    <E key="NULL | damage from material: acid" value="11" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="23" >
+    </E>
+    <E key="blob | $damage_melee" value="6" >
+    </E>
+    <E key="frog_big | $damage_melee" value="4" >
+    </E>
+    <E key="miniblob | $damage_melee" value="5" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="13" >
+    </E>
+    <E key="player | $damage_projectile" value="31" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="miniblob" value="1" >
+    </E>
+  </kill_map>
+</Stats>

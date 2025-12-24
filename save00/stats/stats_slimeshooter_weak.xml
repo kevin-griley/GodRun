@@ -1,0 +1,78 @@
+<Stats deaths="1129" kills="354" player_kills="5" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="11" >
+    </E>
+    <E key="NULL | $damage_electricity" value="2" >
+    </E>
+    <E key="NULL | $damage_explosion" value="38" >
+    </E>
+    <E key="NULL | $damage_fire" value="110" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="16" >
+    </E>
+    <E key="acidshooter_weak | $damage_melee" value="1" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="9" >
+    </E>
+    <E key="firemage_weak | $damage_fire" value="3" >
+    </E>
+    <E key="longleg | $damage_melee" value="5" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="71" >
+    </E>
+    <E key="miner_weak | $damage_melee" value="14" >
+    </E>
+    <E key="miner_weak | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="5" >
+    </E>
+    <E key="player | $damage_projectile" value="597" >
+    </E>
+    <E key="player | $damage_slice" value="117" >
+    </E>
+    <E key="shaman | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner_weak | $damage_melee" value="2" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="55" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="4" >
+    </E>
+    <E key="slimeshooter_weak | $damage_explosion" value="30" >
+    </E>
+    <E key="worm | worm bite" value="12" >
+    </E>
+    <E key="worm_tiny | worm bite" value="3" >
+    </E>
+    <E key="zombie_weak | $damage_melee" value="22" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="4" >
+    </E>
+    <E key="fireskull" value="3" >
+    </E>
+    <E key="longleg" value="98" >
+    </E>
+    <E key="miner_weak" value="38" >
+    </E>
+    <E key="player" value="5" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="radioactive_blob" value="2" >
+    </E>
+    <E key="sheep_bat" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="18" >
+    </E>
+    <E key="slimeshooter_weak" value="30" >
+    </E>
+    <E key="tnt" value="3" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+    <E key="zombie_weak" value="149" >
+    </E>
+  </kill_map>
+</Stats>

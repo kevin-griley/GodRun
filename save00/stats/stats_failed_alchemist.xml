@@ -1,0 +1,34 @@
+<Stats deaths="33" kills="2" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
+    </E>
+    <E key="lasergun | $damage_projectile" value="1" >
+    </E>
+    <E key="phantom_a | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="20" >
+    </E>
+    <E key="wizard_neutral | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_returner | $damage_projectile" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+  </kill_map>
+</Stats>

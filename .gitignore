@@ -1,0 +1,22 @@
+# Ignore Steam Cloud sync files
+*.vdf
+
+# Ignore persistent folder (may be cleared by game)
+save00/persistent/
+
+# Ignore screenshots
+save_rec/screenshots/
+
+# Ignore temp/cache files
+*.tmp
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python/PowerShell helper scripts output (if any)
+__pycache__/
+*.pyc
+*.pyo
+*.ps1~

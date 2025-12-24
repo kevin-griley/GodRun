@@ -1,0 +1,122 @@
+<Stats deaths="2003" kills="144" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="11" >
+    </E>
+    <E key="NULL | $damage_electricity" value="5" >
+    </E>
+    <E key="NULL | $damage_explosion" value="200" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="76" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="4" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | $damage_water" value="39" >
+    </E>
+    <E key="NULL | damage from material: Water" value="298" >
+    </E>
+    <E key="NULL | damage from material: snow" value="1" >
+    </E>
+    <E key="NULL | damage from material: swamp" value="3" >
+    </E>
+    <E key="ant | $damage_melee" value="1" >
+    </E>
+    <E key="bat | $damage_melee" value="54" >
+    </E>
+    <E key="bigbat | $damage_melee" value="1" >
+    </E>
+    <E key="bigfirebug | $damage_projectile" value="1" >
+    </E>
+    <E key="chest_mimic | $damage_melee" value="2" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="2" >
+    </E>
+    <E key="goblin_bomb | $damage_explosion" value="1" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="4" >
+    </E>
+    <E key="lukki_minion | $damage_curse" value="6" >
+    </E>
+    <E key="miner | $damage_explosion" value="33" >
+    </E>
+    <E key="miner | $damage_melee" value="4" >
+    </E>
+    <E key="miniblob | $damage_melee" value="2" >
+    </E>
+    <E key="orb_laseremitter_cutter | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="3" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="19" >
+    </E>
+    <E key="player | $damage_ice" value="2" >
+    </E>
+    <E key="player | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_plasmabeam" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="976" >
+    </E>
+    <E key="player | $damage_slice" value="115" >
+    </E>
+    <E key="playerghost | $damage_explosion" value="5" >
+    </E>
+    <E key="playerghost | $damage_melee" value="3" >
+    </E>
+    <E key="playerghost | $damage_projectile" value="7" >
+    </E>
+    <E key="rat | $damage_melee" value="44" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="1" >
+    </E>
+    <E key="shotgunner | $damage_melee" value="2" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="40" >
+    </E>
+    <E key="shotgunner | $damage_slice" value="2" >
+    </E>
+    <E key="slimeshooter | $damage_melee" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="15" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_tele | $damage_projectile" value="5" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="3" >
+    </E>
+    <E key="goblin_bomb" value="8" >
+    </E>
+    <E key="miner" value="16" >
+    </E>
+    <E key="miner_fire" value="2" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="pollen" value="1" >
+    </E>
+    <E key="rat" value="88" >
+    </E>
+    <E key="shotgunner" value="18" >
+    </E>
+    <E key="slimeshooter" value="7" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,86 @@
+<Stats deaths="138" kills="116" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="17" >
+    </E>
+    <E key="NULL | $damage_electricity" value="7" >
+    </E>
+    <E key="NULL | $damage_explosion" value="54" >
+    </E>
+    <E key="NULL | $damage_fire" value="7" >
+    </E>
+    <E key="NULL | $damage_melee" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | damage from material: Poison" value="3" >
+    </E>
+    <E key="NULL | damage from material: acid" value="2" >
+    </E>
+    <E key="NULL | damage from material: lava" value="8" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="6" >
+    </E>
+    <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="2" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="18" >
+    </E>
+    <E key="playerghost | $damage_projectile" value="1" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
+    </E>
+    <E key="sniper | $damage_explosion" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+    <E key="wizard_tele | $damage_explosion" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="berserkspirit" value="1" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="duck" value="1" >
+    </E>
+    <E key="firebug" value="5" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="frog" value="2" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="rat" value="91" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="sheep" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+    <E key="zombie" value="5" >
+    </E>
+  </kill_map>
+</Stats>

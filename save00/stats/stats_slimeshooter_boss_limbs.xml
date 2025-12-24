@@ -1,0 +1,30 @@
+<Stats deaths="20" kills="10" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="4" >
+    </E>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="12" >
+    </E>
+    <E key="skullfly | $damage_projectile" value="2" >
+    </E>
+    <E key="slimeshooter_boss_limbs | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="longleg" value="3" >
+    </E>
+    <E key="plague_rats_rat" value="2" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="skullfly" value="1" >
+    </E>
+    <E key="skullrat" value="1" >
+    </E>
+    <E key="slimeshooter_boss_limbs" value="1" >
+    </E>
+    <E key="wizard_twitchy" value="1" >
+    </E>
+  </kill_map>
+</Stats>

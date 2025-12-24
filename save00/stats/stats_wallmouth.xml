@@ -1,0 +1,16 @@
+<Stats deaths="9" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="boss_meat | $damage_explosion" value="1" >
+    </E>
+    <E key="miner_hell | $damage_explosion" value="2" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="sniper_hell | $damage_explosion" value="1" >
+    </E>
+    <E key="worm | worm bite" value="4" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

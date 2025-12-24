@@ -1,0 +1,34 @@
+<Stats deaths="7" kills="49" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="meatmaggot | worm bite" value="2" >
+    </E>
+    <E key="miner_hell | $damage_explosion" value="2" >
+    </E>
+    <E key="walleye | $damage_explosion" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="miner_hell" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="rat" value="19" >
+    </E>
+    <E key="shotgunner_hell" value="3" >
+    </E>
+    <E key="sniper_hell" value="1" >
+    </E>
+    <E key="tnt_hell" value="21" >
+    </E>
+    <E key="walleye" value="1" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+  </kill_map>
+</Stats>

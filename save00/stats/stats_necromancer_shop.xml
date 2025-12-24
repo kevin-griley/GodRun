@@ -1,0 +1,40 @@
+<Stats deaths="44" kills="98" player_kills="11" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="10" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="30" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="fish" value="61" >
+    </E>
+    <E key="homunculus" value="2" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="10" >
+    </E>
+    <E key="player" value="11" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+  </kill_map>
+</Stats>

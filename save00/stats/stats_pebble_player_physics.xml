@@ -1,0 +1,40 @@
+<Stats deaths="72" kills="32" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="6" >
+    </E>
+    <E key="NULL | damage from material: freezing liquid" value="1" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="7" >
+    </E>
+    <E key="icemage | $damage_explosion" value="2" >
+    </E>
+    <E key="miner | $damage_projectile" value="1" >
+    </E>
+    <E key="pebble_player_physics | $damage_explosion" value="31" >
+    </E>
+    <E key="player | $damage_explosion" value="2" >
+    </E>
+    <E key="scavenger_glue | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="3" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="5" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="2" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="tank | $damage_projectile" value="5" >
+    </E>
+    <E key="tank_rocket | $damage_projectile" value="1" >
+    </E>
+    <E key="tank_super | $damage_projectile" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="pebble_player_physics" value="31" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+  </kill_map>
+</Stats>

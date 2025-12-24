@@ -1,0 +1,58 @@
+<Stats deaths="75" kills="20" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="2" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="3" >
+    </E>
+    <E key="NULL | $damage_fire" value="7" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="3" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="3" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="7" >
+    </E>
+    <E key="player | $damage_projectile" value="41" >
+    </E>
+    <E key="skullrat | $damage_melee" value="1" >
+    </E>
+    <E key="slimeshooter_boss_limbs | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="2" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="barfer" value="1" >
+    </E>
+    <E key="failed_alchemist_b" value="3" >
+    </E>
+    <E key="lukki_creepy_long" value="1" >
+    </E>
+    <E key="lurker" value="2" >
+    </E>
+    <E key="physics_torch_stand_blue" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="3" >
+    </E>
+    <E key="scorpion" value="3" >
+    </E>
+    <E key="slimeshooter_boss_limbs" value="2" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+  </kill_map>
+</Stats>

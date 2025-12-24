@@ -1,0 +1,66 @@
+<Stats deaths="170" kills="14" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="5" >
+    </E>
+    <E key="NULL | $damage_electricity" value="5" >
+    </E>
+    <E key="NULL | $damage_explosion" value="16" >
+    </E>
+    <E key="NULL | $damage_fire" value="44" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="2" >
+    </E>
+    <E key="NULL | damage from material: lava" value="2" >
+    </E>
+    <E key="acidshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="bloom | $damage_explosion" value="1" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="1" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="17" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="4" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="8" >
+    </E>
+    <E key="player | $damage_projectile" value="50" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="scavenger_glue | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_poison | $damage_projectile" value="1" >
+    </E>
+    <E key="shooterflower | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter_boss_limbs | $damage_projectile" value="1" >
+    </E>
+    <E key="worm | worm bite" value="2" >
+    </E>
+    <E key="worm_tiny | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="fly" value="3" >
+    </E>
+    <E key="miniblob" value="2" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+  </kill_map>
+</Stats>

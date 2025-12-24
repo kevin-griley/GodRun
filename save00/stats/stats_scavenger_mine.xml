@@ -1,0 +1,60 @@
+<Stats deaths="156" kills="28" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="2" >
+    </E>
+    <E key="NULL | $damage_electricity" value="6" >
+    </E>
+    <E key="NULL | $damage_explosion" value="14" >
+    </E>
+    <E key="NULL | $damage_fire" value="54" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="12" >
+    </E>
+    <E key="NULL | damage from material: acid" value="2" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="6" >
+    </E>
+    <E key="player | $damage_holy" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="48" >
+    </E>
+    <E key="player | $damage_slice" value="4" >
+    </E>
+    <E key="worm | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="bat" value="2" >
+    </E>
+    <E key="bigzombie" value="3" >
+    </E>
+    <E key="bigzombiehead" value="2" >
+    </E>
+    <E key="bigzombietorso" value="4" >
+    </E>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="fish" value="5" >
+    </E>
+    <E key="mine_scavenger" value="4" >
+    </E>
+    <E key="miniblob" value="3" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

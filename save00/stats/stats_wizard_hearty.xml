@@ -1,0 +1,30 @@
+<Stats deaths="38" kills="7" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_fire" value="7" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="4" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="20" >
+    </E>
+    <E key="skullrat | $damage_melee" value="1" >
+    </E>
+    <E key="worm | worm bite" value="2" >
+    </E>
+    <E key="worm_skull | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="ant" value="1" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="rat" value="5" >
+    </E>
+  </kill_map>
+</Stats>

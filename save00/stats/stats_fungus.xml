@@ -1,0 +1,64 @@
+<Stats deaths="660" kills="1" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="7" >
+    </E>
+    <E key="NULL | $damage_explosion" value="334" >
+    </E>
+    <E key="NULL | $damage_fire" value="126" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="7" >
+    </E>
+    <E key="NULL | $damage_projectile" value="2" >
+    </E>
+    <E key="NULL | damage from material: acid" value="31" >
+    </E>
+    <E key="NULL | damage from material: lava" value="3" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="26" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="7" >
+    </E>
+    <E key="miniblob | $damage_melee" value="2" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="4" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="13" >
+    </E>
+    <E key="player | $damage_fire" value="5" >
+    </E>
+    <E key="player | $damage_ice" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="70" >
+    </E>
+    <E key="player | $damage_slice" value="6" >
+    </E>
+    <E key="playerghost | $damage_drill" value="1" >
+    </E>
+    <E key="playerghost | $damage_projectile" value="1" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_invis | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_invis | $damage_projectile" value="2" >
+    </E>
+    <E key="shotgunner_weak | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="3" >
+    </E>
+    <E key="wizard_dark | $damage_fire" value="1" >
+    </E>
+    <E key="wizard_tele | $damage_projectile" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="sheep" value="1" >
+    </E>
+  </kill_map>
+</Stats>

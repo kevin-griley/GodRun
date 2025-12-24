@@ -1,0 +1,44 @@
+<Stats deaths="247" kills="4" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="11" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="6" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="2" >
+    </E>
+    <E key="NULL | physics body damaged" value="136" >
+    </E>
+    <E key="miner | $damage_explosion" value="1" >
+    </E>
+    <E key="physics_ragdoll_ai | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_drill" value="8" >
+    </E>
+    <E key="player | $damage_projectile" value="64" >
+    </E>
+    <E key="player | $damage_slice" value="4" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_melee" value="3" >
+    </E>
+    <E key="scavenger_leader | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_melee" value="4" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="2" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="physics_ragdoll_ai" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+  </kill_map>
+</Stats>

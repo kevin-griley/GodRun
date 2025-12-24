@@ -1,0 +1,40 @@
+<Stats deaths="25" kills="13" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="2" >
+    </E>
+    <E key="lasergun | $damage_projectile" value="2" >
+    </E>
+    <E key="orb_laseremitter_four | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="15" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="lasergun" value="1" >
+    </E>
+    <E key="phantom_a" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="2" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scorpion" value="2" >
+    </E>
+    <E key="sheep" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="1" >
+    </E>
+    <E key="wand_ghost" value="1" >
+    </E>
+  </kill_map>
+</Stats>

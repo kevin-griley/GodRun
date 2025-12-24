@@ -1,0 +1,44 @@
+<Stats deaths="36" kills="15" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="4" >
+    </E>
+    <E key="NULL | $damage_explosion" value="3" >
+    </E>
+    <E key="NULL | $damage_fire" value="2" >
+    </E>
+    <E key="bat | $damage_melee" value="1" >
+    </E>
+    <E key="lasergun | $damage_projectile" value="2" >
+    </E>
+    <E key="phantom_a | $damage_melee" value="1" >
+    </E>
+    <E key="phantom_b | $damage_melee" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="16" >
+    </E>
+    <E key="skullrat | $damage_melee" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
+    </E>
+    <E key="wizard_neutral | $damage_projectile" value="1" >
+    </E>
+    <E key="worm_skull | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="enlightened_alchemist" value="1" >
+    </E>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="rat" value="9" >
+    </E>
+    <E key="scorpion" value="2" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+  </kill_map>
+</Stats>

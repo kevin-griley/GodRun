@@ -1,0 +1,86 @@
+<Stats deaths="217" kills="49" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="8" >
+    </E>
+    <E key="NULL | $damage_electricity" value="3" >
+    </E>
+    <E key="NULL | $damage_explosion" value="13" >
+    </E>
+    <E key="NULL | $damage_fire" value="4" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="8" >
+    </E>
+    <E key="NULL | damage from material: Poison" value="1" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+    <E key="bloom | $damage_projectile" value="1" >
+    </E>
+    <E key="player | $damage_drill" value="4" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="19" >
+    </E>
+    <E key="player | $damage_ice" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="125" >
+    </E>
+    <E key="player | $damage_slice" value="17" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_explosion" value="3" >
+    </E>
+    <E key="worm | worm bite" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="blob" value="1" >
+    </E>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="fly" value="8" >
+    </E>
+    <E key="lukki" value="3" >
+    </E>
+    <E key="lukki_eggs" value="1" >
+    </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="lukki_tiny" value="2" >
+    </E>
+    <E key="mine_scavenger" value="1" >
+    </E>
+    <E key="physics_ragdoll_ai" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="pipe_bomb" value="2" >
+    </E>
+    <E key="plague_rats_rat" value="4" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="root_grower" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb" value="3" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="scavenger_smg" value="3" >
+    </E>
+    <E key="shooterflower" value="2" >
+    </E>
+    <E key="worm" value="1" >
+    </E>
+    <E key="zombie" value="4" >
+    </E>
+  </kill_map>
+</Stats>

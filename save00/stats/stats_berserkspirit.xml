@@ -1,0 +1,18 @@
+<Stats deaths="6" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="miner | $damage_explosion" value="1" >
+    </E>
+    <E key="necromancer | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+    <E key="skullrat | $damage_melee" value="1" >
+    </E>
+    <E key="wizard_tele | $damage_projectile" value="1" >
+    </E>
+    <E key="zombie_weak | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

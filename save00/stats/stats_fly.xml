@@ -1,0 +1,98 @@
+<Stats deaths="747" kills="17" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="13" >
+    </E>
+    <E key="NULL | $damage_electricity" value="8" >
+    </E>
+    <E key="NULL | $damage_explosion" value="127" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="NULL | damage from material: Poison" value="3" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+    <E key="NULL | damage from material: toxic ice" value="1" >
+    </E>
+    <E key="ant | $damage_melee" value="1" >
+    </E>
+    <E key="bloom | $damage_explosion" value="2" >
+    </E>
+    <E key="bloom | $damage_projectile" value="3" >
+    </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="3" >
+    </E>
+    <E key="frog_big | $damage_melee" value="1" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="4" >
+    </E>
+    <E key="maggot | $damage_melee" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="4" >
+    </E>
+    <E key="player | $damage_drill" value="12" >
+    </E>
+    <E key="player | $damage_electricity" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="49" >
+    </E>
+    <E key="player | $damage_fire" value="11" >
+    </E>
+    <E key="player | $damage_holy" value="1" >
+    </E>
+    <E key="player | $damage_ice" value="8" >
+    </E>
+    <E key="player | $damage_projectile" value="386" >
+    </E>
+    <E key="player | $damage_slice" value="45" >
+    </E>
+    <E key="playerghost | $damage_explosion" value="1" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_melee" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_projectile" value="5" >
+    </E>
+    <E key="scavenger_grenade | $damage_melee" value="1" >
+    </E>
+    <E key="shooterflower | $damage_projectile" value="15" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="2" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="2" >
+    </E>
+    <E key="wizard_hearty | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_tele | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_twitchy | $damage_projectile" value="3" >
+    </E>
+    <E key="worm | worm bite" value="20" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="miniblob" value="2" >
+    </E>
+    <E key="rat" value="8" >
+    </E>
+    <E key="sheep_bat" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+  </kill_map>
+</Stats>

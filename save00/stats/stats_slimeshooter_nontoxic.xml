@@ -1,0 +1,100 @@
+<Stats deaths="41" kills="72" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="2" >
+    </E>
+    <E key="NULL | $damage_explosion" value="5" >
+    </E>
+    <E key="NULL | $damage_fire" value="5" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="2" >
+    </E>
+    <E key="NULL | damage from material: lava" value="2" >
+    </E>
+    <E key="bigzombie | $damage_melee" value="1" >
+    </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="2" >
+    </E>
+    <E key="lukki | hit" value="3" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="1" >
+    </E>
+    <E key="meatmaggot | worm bite" value="1" >
+    </E>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
+    <E key="orb_green | $damage_projectile" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_melee" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+    <E key="wizard_dark | $damage_explosion" value="2" >
+    </E>
+    <E key="wizard_dark | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_returner | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="9" >
+    </E>
+    <E key="bat" value="2" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="firebug" value="2" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="fungus_tiny" value="2" >
+    </E>
+    <E key="longleg" value="8" >
+    </E>
+    <E key="miner_weak" value="4" >
+    </E>
+    <E key="miniblob" value="5" >
+    </E>
+    <E key="pebble_physics" value="1" >
+    </E>
+    <E key="phantom_b" value="1" >
+    </E>
+    <E key="rat" value="6" >
+    </E>
+    <E key="scavenger_grenade" value="3" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="2" >
+    </E>
+    <E key="slimeshooter_weak" value="4" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+    <E key="zombie_weak" value="12" >
+    </E>
+  </kill_map>
+</Stats>

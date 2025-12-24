@@ -1,0 +1,16 @@
+<Stats deaths="35" kills="15" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="33" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="mine_scavenger" value="1" >
+    </E>
+    <E key="rat" value="8" >
+    </E>
+    <E key="thunderskull" value="6" >
+    </E>
+  </kill_map>
+</Stats>

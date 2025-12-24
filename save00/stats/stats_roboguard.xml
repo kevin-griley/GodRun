@@ -1,0 +1,96 @@
+<Stats deaths="119" kills="187" player_kills="2" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="8" >
+    </E>
+    <E key="NULL | $damage_explosion" value="39" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="4" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="4" >
+    </E>
+    <E key="NULL | damage from material: concentrated mana" value="1" >
+    </E>
+    <E key="lukki_minion | $damage_curse" value="2" >
+    </E>
+    <E key="maggot | $damage_explosion" value="1" >
+    </E>
+    <E key="orb_laseremitter_cutter | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_drill" value="2" >
+    </E>
+    <E key="player | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="10" >
+    </E>
+    <E key="player | $damage_projectile" value="43" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="3" >
+    </E>
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="ant" value="2" >
+    </E>
+    <E key="bat" value="1" >
+    </E>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="bigzombietorso" value="1" >
+    </E>
+    <E key="blob" value="8" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="glue" value="4" >
+    </E>
+    <E key="longleg" value="3" >
+    </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="miniblob" value="44" >
+    </E>
+    <E key="plague_rats_rat" value="15" >
+    </E>
+    <E key="player" value="2" >
+    </E>
+    <E key="rat" value="63" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="sheep" value="1" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="tentacler" value="2" >
+    </E>
+    <E key="tentacler_small" value="6" >
+    </E>
+    <E key="thunderskull" value="3" >
+    </E>
+    <E key="wizard_dark" value="2" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+    <E key="zombie" value="12" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,20 @@
+<Stats deaths="14" kills="10" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_projectile" value="14" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="fish" value="5" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+  </kill_map>
+</Stats>

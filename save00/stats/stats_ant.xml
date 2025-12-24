@@ -1,0 +1,74 @@
+<Stats deaths="114" kills="92" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="8" >
+    </E>
+    <E key="NULL | $damage_electricity" value="2" >
+    </E>
+    <E key="NULL | $damage_explosion" value="46" >
+    </E>
+    <E key="NULL | $damage_fire" value="7" >
+    </E>
+    <E key="NULL | $damage_projectile" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="blob | $damage_melee" value="1" >
+    </E>
+    <E key="fungus_giga | $damage_projectile" value="2" >
+    </E>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="27" >
+    </E>
+    <E key="player | $damage_slice" value="4" >
+    </E>
+    <E key="roboguard | $damage_ice" value="1" >
+    </E>
+    <E key="roboguard | $damage_melee" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="2" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="5" >
+    </E>
+    <E key="wizard_dark | $damage_explosion" value="1" >
+    </E>
+    <E key="wizard_hearty | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_swapper | $damage_fire" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="alchemist" value="3" >
+    </E>
+    <E key="blob" value="14" >
+    </E>
+    <E key="drone_physics" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="frog" value="5" >
+    </E>
+    <E key="lukki" value="1" >
+    </E>
+    <E key="miniblob" value="39" >
+    </E>
+    <E key="plague_rats_rat" value="2" >
+    </E>
+    <E key="rat" value="11" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="tentacler_small" value="4" >
+    </E>
+    <E key="worm" value="1" >
+    </E>
+    <E key="zombie" value="7" >
+    </E>
+  </kill_map>
+</Stats>

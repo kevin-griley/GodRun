@@ -1,0 +1,26 @@
+<Stats deaths="17" kills="9" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | physics body damaged" value="9" >
+    </E>
+    <E key="player | $damage_projectile" value="6" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="2" >
+    </E>
+    <E key="polyorb" value="1" >
+    </E>
+    <E key="tentacler" value="3" >
+    </E>
+    <E key="wizard_poly" value="1" >
+    </E>
+    <E key="wizard_swapper" value="1" >
+    </E>
+  </kill_map>
+</Stats>

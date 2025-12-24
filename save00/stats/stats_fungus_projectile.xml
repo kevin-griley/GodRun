@@ -1,0 +1,20 @@
+<Stats deaths="31" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="18" >
+    </E>
+    <E key="NULL | $damage_fire" value="3" >
+    </E>
+    <E key="physics_die | $damage_ice" value="1" >
+    </E>
+    <E key="physics_die | $damage_melee" value="3" >
+    </E>
+    <E key="physics_die | $damage_projectile" value="2" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

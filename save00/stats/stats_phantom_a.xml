@@ -1,0 +1,42 @@
+<Stats deaths="54" kills="12" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="3" >
+    </E>
+    <E key="meatmaggot | worm bite" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="4" >
+    </E>
+    <E key="player | $damage_explosion" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="38" >
+    </E>
+    <E key="wizard_returner | $damage_projectile" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="4" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+  </kill_map>
+</Stats>

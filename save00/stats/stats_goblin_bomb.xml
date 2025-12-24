@@ -1,0 +1,88 @@
+<Stats deaths="571" kills="120" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="25" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="102" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="24" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="3" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="107" >
+    </E>
+    <E key="NULL | damage from material: lava" value="39" >
+    </E>
+    <E key="bat | $damage_melee" value="3" >
+    </E>
+    <E key="bigbat | $damage_melee" value="1" >
+    </E>
+    <E key="bigfirebug | $damage_fire" value="1" >
+    </E>
+    <E key="bigfirebug | $damage_melee" value="1" >
+    </E>
+    <E key="bigfirebug | $damage_projectile" value="1" >
+    </E>
+    <E key="boss_alchemist | $damage_projectile" value="1" >
+    </E>
+    <E key="firebug | $damage_fire" value="5" >
+    </E>
+    <E key="firebug | $damage_melee" value="3" >
+    </E>
+    <E key="goblin_bomb | $damage_explosion" value="13" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="3" >
+    </E>
+    <E key="miner | $damage_explosion" value="2" >
+    </E>
+    <E key="miner | $damage_melee" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="6" >
+    </E>
+    <E key="player | $damage_projectile" value="177" >
+    </E>
+    <E key="player | $damage_slice" value="33" >
+    </E>
+    <E key="playerghost | $damage_explosion" value="1" >
+    </E>
+    <E key="playerghost | $damage_melee" value="5" >
+    </E>
+    <E key="playerghost | $damage_slice" value="1" >
+    </E>
+    <E key="shaman | $damage_projectile" value="3" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="2" >
+    </E>
+    <E key="worm | worm bite" value="3" >
+    </E>
+    <E key="worm_skull | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="4" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="firebug" value="1" >
+    </E>
+    <E key="goblin_bomb" value="13" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="rat" value="96" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+  </kill_map>
+</Stats>

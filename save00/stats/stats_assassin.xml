@@ -1,0 +1,32 @@
+<Stats deaths="47" kills="20" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="3" >
+    </E>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="2" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="16" >
+    </E>
+    <E key="player | $damage_projectile" value="21" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="miniblob" value="3" >
+    </E>
+    <E key="plague_rats_rat" value="2" >
+    </E>
+    <E key="rat" value="14" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,70 @@
+<Stats deaths="147" kills="1" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="7" >
+    </E>
+    <E key="NULL | $damage_electricity" value="14" >
+    </E>
+    <E key="NULL | $damage_explosion" value="15" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="15" >
+    </E>
+    <E key="NULL | damage from material: freezing liquid" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="1" >
+    </E>
+    <E key="acidshooter | $damage_melee" value="1" >
+    </E>
+    <E key="acidshooter | $damage_projectile" value="2" >
+    </E>
+    <E key="bigzombietorso | $damage_explosion" value="2" >
+    </E>
+    <E key="firemage | $damage_explosion" value="1" >
+    </E>
+    <E key="flamer | $damage_fire" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="4" >
+    </E>
+    <E key="player | $damage_explosion" value="15" >
+    </E>
+    <E key="player | $damage_fire" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="45" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_glue | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_mine | $damage_melee" value="2" >
+    </E>
+    <E key="scavenger_smg | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="1" >
+    </E>
+    <E key="tank | $damage_explosion" value="1" >
+    </E>
+    <E key="tank | $damage_projectile" value="1" >
+    </E>
+    <E key="tank_rocket | $damage_projectile" value="3" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="2" >
+    </E>
+    <E key="thundermage | $damage_explosion" value="1" >
+    </E>
+    <E key="turret_left | $damage_projectile" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+  </kill_map>
+</Stats>

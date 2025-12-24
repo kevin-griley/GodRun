@@ -1,0 +1,84 @@
+<Stats deaths="244" kills="95" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="6" >
+    </E>
+    <E key="NULL | $damage_electricity" value="8" >
+    </E>
+    <E key="NULL | $damage_explosion" value="25" >
+    </E>
+    <E key="NULL | $damage_fire" value="22" >
+    </E>
+    <E key="NULL | $damage_ice" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="8" >
+    </E>
+    <E key="NULL | damage from material: acid" value="6" >
+    </E>
+    <E key="NULL | damage from material: freezing liquid" value="2" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="11" >
+    </E>
+    <E key="acidshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="bigzombie | $damage_explosion" value="2" >
+    </E>
+    <E key="bigzombie | $damage_melee" value="3" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="1" >
+    </E>
+    <E key="iceskull | $damage_ice" value="7" >
+    </E>
+    <E key="iceskull | $damage_melee" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="17" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="92" >
+    </E>
+    <E key="player | $damage_slice" value="10" >
+    </E>
+    <E key="scavenger_heal | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_explosion" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="12" >
+    </E>
+    <E key="worm_tiny | worm bite" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bigzombie" value="3" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="bigzombietorso" value="3" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="miniblob" value="16" >
+    </E>
+    <E key="pebble_player_physics" value="2" >
+    </E>
+    <E key="pollen" value="1" >
+    </E>
+    <E key="rat" value="57" >
+    </E>
+    <E key="slimeshooter" value="3" >
+    </E>
+    <E key="tentacler_small" value="3" >
+    </E>
+    <E key="thunderskull" value="1" >
+    </E>
+    <E key="wizard_twitchy" value="1" >
+    </E>
+    <E key="worm_tiny" value="2" >
+    </E>
+  </kill_map>
+</Stats>

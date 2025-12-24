@@ -1,0 +1,22 @@
+<Stats deaths="21" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="crystal_physics | $damage_projectile" value="1" >
+    </E>
+    <E key="orb_green | $damage_projectile" value="2" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="12" >
+    </E>
+    <E key="wand_ghost | $damage_projectile" value="1" >
+    </E>
+    <E key="worm_big | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

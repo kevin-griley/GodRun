@@ -1,0 +1,24 @@
+<Stats deaths="5" kills="7" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_holy" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="phantom_b" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="2" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="skullrat" value="1" >
+    </E>
+  </kill_map>
+</Stats>

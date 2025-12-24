@@ -1,0 +1,148 @@
+<Stats deaths="599" kills="156" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="4" >
+    </E>
+    <E key="NULL | $damage_electricity" value="25" >
+    </E>
+    <E key="NULL | $damage_explosion" value="237" >
+    </E>
+    <E key="NULL | $damage_melee" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="10" >
+    </E>
+    <E key="NULL | $damage_projectile" value="2" >
+    </E>
+    <E key="ant | $damage_melee" value="14" >
+    </E>
+    <E key="bat | $damage_melee" value="1" >
+    </E>
+    <E key="bigzombie | $damage_melee" value="7" >
+    </E>
+    <E key="bigzombietorso | $damage_melee" value="2" >
+    </E>
+    <E key="blob | $damage_melee" value="2" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="5" >
+    </E>
+    <E key="firemage | $damage_explosion" value="4" >
+    </E>
+    <E key="firemage | $damage_fire" value="1" >
+    </E>
+    <E key="firemage | $damage_melee" value="3" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="frog_big | $damage_melee" value="1" >
+    </E>
+    <E key="fungus_giga | $damage_projectile" value="1" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="4" >
+    </E>
+    <E key="icer | $damage_explosion" value="1" >
+    </E>
+    <E key="maggot | $damage_explosion" value="2" >
+    </E>
+    <E key="miner | $damage_explosion" value="3" >
+    </E>
+    <E key="miner_weak | $damage_explosion" value="4" >
+    </E>
+    <E key="miniblob | $damage_melee" value="2" >
+    </E>
+    <E key="missilecrab | $damage_explosion" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="17" >
+    </E>
+    <E key="player | $damage_drill" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="35" >
+    </E>
+    <E key="player | $damage_fire" value="4" >
+    </E>
+    <E key="player | $damage_projectile" value="158" >
+    </E>
+    <E key="player | $damage_slice" value="13" >
+    </E>
+    <E key="roboguard | $damage_explosion" value="3" >
+    </E>
+    <E key="roboguard | $damage_melee" value="3" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="2" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_glue | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner | $damage_melee" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="2" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
+    </E>
+    <E key="sniper | $damage_explosion" value="1" >
+    </E>
+    <E key="sniper | $damage_melee" value="2" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="tank | $damage_projectile" value="1" >
+    </E>
+    <E key="thundermage | $damage_electricity" value="1" >
+    </E>
+    <E key="thundermage | $damage_melee" value="2" >
+    </E>
+    <E key="turret_right | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_tele | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_twitchy | $damage_projectile" value="1" >
+    </E>
+    <E key="worm | worm bite" value="6" >
+    </E>
+    <E key="zombie_weak | $damage_melee" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="alchemist" value="1" >
+    </E>
+    <E key="ant" value="1" >
+    </E>
+    <E key="bigzombie" value="3" >
+    </E>
+    <E key="bigzombietorso" value="2" >
+    </E>
+    <E key="blob" value="2" >
+    </E>
+    <E key="fish" value="1" >
+    </E>
+    <E key="fungus_tiny" value="6" >
+    </E>
+    <E key="longleg" value="1" >
+    </E>
+    <E key="lukki_longleg" value="1" >
+    </E>
+    <E key="miniblob" value="11" >
+    </E>
+    <E key="plague_rats_rat" value="4" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="rat" value="83" >
+    </E>
+    <E key="sheep" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="wizard_dark" value="4" >
+    </E>
+    <E key="wizard_swapper" value="4" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+    <E key="zombie" value="25" >
+    </E>
+    <E key="zombie_weak" value="1" >
+    </E>
+  </kill_map>
+</Stats>

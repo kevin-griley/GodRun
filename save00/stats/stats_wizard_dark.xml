@@ -1,0 +1,86 @@
+<Stats deaths="119" kills="56" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="9" >
+    </E>
+    <E key="NULL | $damage_electricity" value="3" >
+    </E>
+    <E key="NULL | $damage_explosion" value="36" >
+    </E>
+    <E key="NULL | $damage_fire" value="9" >
+    </E>
+    <E key="NULL | damage from material: Cursed rock" value="1" >
+    </E>
+    <E key="NULL | damage from material: Poison" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="3" >
+    </E>
+    <E key="NULL | damage from material: lava" value="3" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="5" >
+    </E>
+    <E key="blob | $damage_melee" value="4" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="1" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="4" >
+    </E>
+    <E key="lukki_minion | $damage_curse" value="1" >
+    </E>
+    <E key="maggot | $damage_explosion" value="2" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="3" >
+    </E>
+    <E key="player | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="18" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="playerghost | $damage_melee" value="1" >
+    </E>
+    <E key="roboguard | $damage_projectile" value="2" >
+    </E>
+    <E key="shotgunner | $damage_explosion" value="1" >
+    </E>
+    <E key="sniper | $damage_melee" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="2" >
+    </E>
+    <E key="walleye | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_dark | $damage_explosion" value="2" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+    <E key="zombie | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="1" >
+    </E>
+    <E key="ant" value="1" >
+    </E>
+    <E key="frog" value="4" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="miniblob" value="6" >
+    </E>
+    <E key="radioactive_blob" value="1" >
+    </E>
+    <E key="rat" value="28" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic" value="3" >
+    </E>
+    <E key="wizard_dark" value="2" >
+    </E>
+    <E key="zombie" value="7" >
+    </E>
+  </kill_map>
+</Stats>

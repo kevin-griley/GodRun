@@ -1,0 +1,76 @@
+<Stats deaths="355" kills="26" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="9" >
+    </E>
+    <E key="NULL | $damage_explosion" value="33" >
+    </E>
+    <E key="NULL | $damage_fire" value="130" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="5" >
+    </E>
+    <E key="NULL | damage from material: Poison" value="4" >
+    </E>
+    <E key="NULL | damage from material: acid" value="4" >
+    </E>
+    <E key="NULL | damage from material: lava" value="3" >
+    </E>
+    <E key="bloom | $damage_explosion" value="1" >
+    </E>
+    <E key="bloom | $damage_projectile" value="1" >
+    </E>
+    <E key="chest_mimic | $damage_melee" value="1" >
+    </E>
+    <E key="lukki_dark | $damage_curse" value="2" >
+    </E>
+    <E key="necromancer_super | $damage_projectile" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_drill" value="5" >
+    </E>
+    <E key="player | $damage_explosion" value="23" >
+    </E>
+    <E key="player | $damage_fire" value="3" >
+    </E>
+    <E key="player | $damage_ice" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="100" >
+    </E>
+    <E key="player | $damage_slice" value="12" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_mine | $damage_projectile" value="1" >
+    </E>
+    <E key="sniper | $damage_explosion" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+    <E key="worm | worm bite" value="8" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bloom" value="2" >
+    </E>
+    <E key="fly" value="5" >
+    </E>
+    <E key="lukki" value="2" >
+    </E>
+    <E key="lukki_longleg" value="3" >
+    </E>
+    <E key="miniblob" value="2" >
+    </E>
+    <E key="physics_torch_stand" value="8" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="wizard_twitchy" value="1" >
+    </E>
+  </kill_map>
+</Stats>

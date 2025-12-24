@@ -1,0 +1,34 @@
+<Stats deaths="99" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="8" >
+    </E>
+    <E key="NULL | $damage_explosion" value="19" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="9" >
+    </E>
+    <E key="NULL | damage from material: acid" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="2" >
+    </E>
+    <E key="bat | $damage_melee" value="1" >
+    </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
+    </E>
+    <E key="firebug | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_ice" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="46" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="playerghost | $damage_projectile" value="1" >
+    </E>
+    <E key="rat | $damage_melee" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

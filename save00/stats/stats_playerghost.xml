@@ -1,0 +1,74 @@
+<Stats deaths="27" kills="94" player_kills="1" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="lukki | hit" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="20" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="sniper | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="alchemist" value="1" >
+    </E>
+    <E key="bat" value="5" >
+    </E>
+    <E key="egg_slime" value="1" >
+    </E>
+    <E key="firebug" value="15" >
+    </E>
+    <E key="firebugnest" value="1" >
+    </E>
+    <E key="fly" value="1" >
+    </E>
+    <E key="frog" value="4" >
+    </E>
+    <E key="frog_big" value="2" >
+    </E>
+    <E key="fungus" value="2" >
+    </E>
+    <E key="giantshooter" value="1" >
+    </E>
+    <E key="goblin_bomb" value="7" >
+    </E>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="miner" value="3" >
+    </E>
+    <E key="miner_fire" value="1" >
+    </E>
+    <E key="player" value="1" >
+    </E>
+    <E key="potion" value="2" >
+    </E>
+    <E key="rat" value="17" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="shotgunner" value="10" >
+    </E>
+    <E key="slimeshooter" value="5" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+    <E key="tank" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+    <E key="zombie" value="5" >
+    </E>
+  </kill_map>
+</Stats>

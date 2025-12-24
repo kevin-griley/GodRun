@@ -1,0 +1,58 @@
+<Stats deaths="92" kills="8" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="2" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="18" >
+    </E>
+    <E key="NULL | $damage_fire" value="8" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | damage from material: Poison" value="1" >
+    </E>
+    <E key="NULL | damage from material: acid" value="2" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="3" >
+    </E>
+    <E key="bat | $damage_melee" value="1" >
+    </E>
+    <E key="longleg | $damage_melee" value="1" >
+    </E>
+    <E key="lukki_minion | $damage_curse" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="6" >
+    </E>
+    <E key="player | $damage_projectile" value="36" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="playerghost | $damage_melee" value="1" >
+    </E>
+    <E key="roboguard | $damage_ice" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_explosion" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+    <E key="wizard_tele | $damage_projectile" value="1" >
+    </E>
+    <E key="worm | worm bite" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="fungus" value="3" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="slimeshooter" value="2" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,136 @@
+<Stats deaths="2183" kills="268" player_kills="2" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="33" >
+    </E>
+    <E key="NULL | $damage_electricity" value="8" >
+    </E>
+    <E key="NULL | $damage_explosion" value="99" >
+    </E>
+    <E key="NULL | $damage_fire" value="392" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="75" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="3" >
+    </E>
+    <E key="NULL | $damage_projectile" value="2" >
+    </E>
+    <E key="NULL | damage from material: acid" value="2" >
+    </E>
+    <E key="NULL | damage from material: freezing liquid" value="1" >
+    </E>
+    <E key="NULL | damage from material: freezing vapour" value="1" >
+    </E>
+    <E key="NULL | damage from material: lava" value="50" >
+    </E>
+    <E key="NULL | damage from material: toxic rock" value="2" >
+    </E>
+    <E key="bat | $damage_melee" value="2" >
+    </E>
+    <E key="bigfirebug | $damage_fire" value="10" >
+    </E>
+    <E key="bigfirebug | $damage_melee" value="1" >
+    </E>
+    <E key="bigfirebug | $damage_projectile" value="2" >
+    </E>
+    <E key="firebug | $damage_fire" value="3" >
+    </E>
+    <E key="goblin_bomb | $damage_explosion" value="3" >
+    </E>
+    <E key="goblin_bomb | $damage_melee" value="1" >
+    </E>
+    <E key="homunculus | $damage_projectile" value="27" >
+    </E>
+    <E key="lukki_minion | $damage_curse" value="5" >
+    </E>
+    <E key="miner | $damage_explosion" value="9" >
+    </E>
+    <E key="miner | $damage_melee" value="7" >
+    </E>
+    <E key="necromancer | $damage_melee" value="1" >
+    </E>
+    <E key="orb_green | $damage_projectile" value="1" >
+    </E>
+    <E key="plague_rats_rat | $damage_melee" value="21" >
+    </E>
+    <E key="player | $damage_drill" value="2" >
+    </E>
+    <E key="player | $damage_electricity" value="8" >
+    </E>
+    <E key="player | $damage_explosion" value="54" >
+    </E>
+    <E key="player | $damage_ice" value="2" >
+    </E>
+    <E key="player | $damage_plasmabeam" value="7" >
+    </E>
+    <E key="player | $damage_projectile" value="1165" >
+    </E>
+    <E key="player | $damage_slice" value="76" >
+    </E>
+    <E key="playerghost | $damage_melee" value="4" >
+    </E>
+    <E key="playerghost | $damage_projectile" value="1" >
+    </E>
+    <E key="rat | $damage_melee" value="58" >
+    </E>
+    <E key="roboguard | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_mine | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_mine | $damage_projectile" value="1" >
+    </E>
+    <E key="shaman | $damage_projectile" value="2" >
+    </E>
+    <E key="shotgunner | $damage_melee" value="9" >
+    </E>
+    <E key="shotgunner | $damage_projectile" value="14" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="9" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter_nontoxic | $damage_explosion" value="2" >
+    </E>
+    <E key="wand_ghost | $damage_projectile" value="1" >
+    </E>
+    <E key="wizard_returner | $damage_explosion" value="1" >
+    </E>
+    <E key="worm | worm bite" value="3" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="1" >
+    </E>
+    <E key="bat" value="2" >
+    </E>
+    <E key="blob" value="1" >
+    </E>
+    <E key="firebug" value="54" >
+    </E>
+    <E key="goblin_bomb" value="3" >
+    </E>
+    <E key="miner" value="8" >
+    </E>
+    <E key="miner_fire" value="1" >
+    </E>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
+    <E key="player" value="2" >
+    </E>
+    <E key="rat" value="184" >
+    </E>
+    <E key="scavenger_invis" value="1" >
+    </E>
+    <E key="shotgunner" value="5" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+    <E key="wand_ghost" value="1" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+    <E key="zombie" value="1" >
+    </E>
+  </kill_map>
+</Stats>
