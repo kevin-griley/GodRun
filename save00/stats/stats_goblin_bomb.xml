@@ -1,10 +1,10 @@
-<Stats deaths="571" kills="120" player_kills="0" player_projectile_count="0" >
+<Stats deaths="573" kills="121" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="25" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="102" >
+    <E key="NULL | $damage_explosion" value="103" >
     </E>
     <E key="NULL | $damage_physicshit" value="24" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="boss_alchemist | $damage_projectile" value="1" >
     </E>
-    <E key="firebug | $damage_fire" value="5" >
+    <E key="firebug | $damage_fire" value="6" >
     </E>
     <E key="firebug | $damage_melee" value="3" >
     </E>
@@ -78,7 +78,7 @@
     </E>
     <E key="plague_rats_rat" value="1" >
     </E>
-    <E key="rat" value="96" >
+    <E key="rat" value="97" >
     </E>
     <E key="shotgunner" value="1" >
     </E>

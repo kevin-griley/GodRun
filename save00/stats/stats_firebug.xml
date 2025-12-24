@@ -1,4 +1,4 @@
-<Stats deaths="2003" kills="144" player_kills="1" player_projectile_count="0" >
+<Stats deaths="2010" kills="147" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="11" >
     </E>
@@ -22,9 +22,9 @@
     </E>
     <E key="ant | $damage_melee" value="1" >
     </E>
-    <E key="bat | $damage_melee" value="54" >
+    <E key="bat | $damage_melee" value="55" >
     </E>
-    <E key="bigbat | $damage_melee" value="1" >
+    <E key="bigbat | $damage_melee" value="2" >
     </E>
     <E key="bigfirebug | $damage_projectile" value="1" >
     </E>
@@ -60,7 +60,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="976" >
+    <E key="player | $damage_projectile" value="979" >
     </E>
     <E key="player | $damage_slice" value="115" >
     </E>
@@ -70,7 +70,7 @@
     </E>
     <E key="playerghost | $damage_projectile" value="7" >
     </E>
-    <E key="rat | $damage_melee" value="44" >
+    <E key="rat | $damage_melee" value="45" >
     </E>
     <E key="roboguard | $damage_projectile" value="1" >
     </E>
@@ -80,7 +80,7 @@
     </E>
     <E key="shotgunner | $damage_melee" value="2" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="40" >
+    <E key="shotgunner | $damage_projectile" value="41" >
     </E>
     <E key="shotgunner | $damage_slice" value="2" >
     </E>
@@ -102,9 +102,9 @@
   <kill_map>
     <E key="bat" value="3" >
     </E>
-    <E key="goblin_bomb" value="8" >
+    <E key="goblin_bomb" value="9" >
     </E>
-    <E key="miner" value="16" >
+    <E key="miner" value="17" >
     </E>
     <E key="miner_fire" value="2" >
     </E>
@@ -112,7 +112,7 @@
     </E>
     <E key="pollen" value="1" >
     </E>
-    <E key="rat" value="88" >
+    <E key="rat" value="89" >
     </E>
     <E key="shotgunner" value="18" >
     </E>

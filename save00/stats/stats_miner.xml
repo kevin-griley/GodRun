@@ -1,12 +1,12 @@
-<Stats deaths="1612" kills="366" player_kills="2" player_projectile_count="0" >
+<Stats deaths="1624" kills="368" player_kills="2" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="84" >
+    <E key="NULL | $damage_drowning" value="85" >
     </E>
     <E key="NULL | $damage_electricity" value="23" >
     </E>
     <E key="NULL | $damage_explosion" value="75" >
     </E>
-    <E key="NULL | $damage_fire" value="285" >
+    <E key="NULL | $damage_fire" value="288" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
-    <E key="NULL | $damage_radioactive" value="209" >
+    <E key="NULL | $damage_radioactive" value="210" >
     </E>
     <E key="NULL | damage from material: Poison" value="1" >
     </E>
@@ -30,7 +30,7 @@
     </E>
     <E key="NULL | damage from material: toxic rock" value="2" >
     </E>
-    <E key="bat | $damage_melee" value="8" >
+    <E key="bat | $damage_melee" value="9" >
     </E>
     <E key="bigbat | $damage_melee" value="2" >
     </E>
@@ -46,7 +46,7 @@
     </E>
     <E key="firebug | $damage_fire" value="7" >
     </E>
-    <E key="firebug | $damage_melee" value="9" >
+    <E key="firebug | $damage_melee" value="10" >
     </E>
     <E key="frog | $damage_melee" value="1" >
     </E>
@@ -78,7 +78,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="554" >
+    <E key="player | $damage_projectile" value="559" >
     </E>
     <E key="player | $damage_slice" value="54" >
     </E>
@@ -136,7 +136,7 @@
     </E>
     <E key="player" value="2" >
     </E>
-    <E key="rat" value="223" >
+    <E key="rat" value="225" >
     </E>
     <E key="scavenger_grenade" value="3" >
     </E>

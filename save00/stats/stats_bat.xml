@@ -1,4 +1,4 @@
-<Stats deaths="2183" kills="268" player_kills="2" player_projectile_count="0" >
+<Stats deaths="2201" kills="271" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="33" >
     </E>
@@ -6,9 +6,9 @@
     </E>
     <E key="NULL | $damage_explosion" value="99" >
     </E>
-    <E key="NULL | $damage_fire" value="392" >
+    <E key="NULL | $damage_fire" value="400" >
     </E>
-    <E key="NULL | $damage_physicshit" value="75" >
+    <E key="NULL | $damage_physicshit" value="76" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="3" >
     </E>
@@ -20,7 +20,7 @@
     </E>
     <E key="NULL | damage from material: freezing vapour" value="1" >
     </E>
-    <E key="NULL | damage from material: lava" value="50" >
+    <E key="NULL | damage from material: lava" value="51" >
     </E>
     <E key="NULL | damage from material: toxic rock" value="2" >
     </E>
@@ -62,7 +62,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="7" >
     </E>
-    <E key="player | $damage_projectile" value="1165" >
+    <E key="player | $damage_projectile" value="1173" >
     </E>
     <E key="player | $damage_slice" value="76" >
     </E>
@@ -104,11 +104,11 @@
     </E>
     <E key="blob" value="1" >
     </E>
-    <E key="firebug" value="54" >
+    <E key="firebug" value="55" >
     </E>
     <E key="goblin_bomb" value="3" >
     </E>
-    <E key="miner" value="8" >
+    <E key="miner" value="9" >
     </E>
     <E key="miner_fire" value="1" >
     </E>
@@ -122,7 +122,7 @@
     </E>
     <E key="scavenger_invis" value="1" >
     </E>
-    <E key="shotgunner" value="5" >
+    <E key="shotgunner" value="6" >
     </E>
     <E key="tentacler" value="1" >
     </E>

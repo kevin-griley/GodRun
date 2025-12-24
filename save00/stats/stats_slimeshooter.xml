@@ -1,4 +1,4 @@
-<Stats deaths="1299" kills="401" player_kills="9" player_projectile_count="0" >
+<Stats deaths="1302" kills="409" player_kills="9" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="24" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="313" >
     </E>
-    <E key="NULL | $damage_fire" value="71" >
+    <E key="NULL | $damage_fire" value="72" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
@@ -84,7 +84,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="462" >
+    <E key="player | $damage_projectile" value="463" >
     </E>
     <E key="player | $damage_slice" value="48" >
     </E>
@@ -116,7 +116,7 @@
     </E>
     <E key="shotgunner_weak | $damage_projectile" value="2" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="13" >
+    <E key="slimeshooter | $damage_explosion" value="14" >
     </E>
     <E key="slimeshooter | $damage_melee" value="2" >
     </E>
@@ -156,7 +156,7 @@
     </E>
     <E key="bat" value="10" >
     </E>
-    <E key="bigfirebug" value="3" >
+    <E key="bigfirebug" value="4" >
     </E>
     <E key="blob" value="2" >
     </E>
@@ -190,7 +190,7 @@
     </E>
     <E key="radioactive_blob_trail" value="6" >
     </E>
-    <E key="rat" value="248" >
+    <E key="rat" value="252" >
     </E>
     <E key="scavenger_grenade" value="3" >
     </E>
@@ -198,13 +198,13 @@
     </E>
     <E key="sheep" value="1" >
     </E>
-    <E key="shotgunner" value="17" >
+    <E key="shotgunner" value="18" >
     </E>
-    <E key="slimeshooter" value="17" >
+    <E key="slimeshooter" value="18" >
     </E>
     <E key="slimeshooter_nontoxic" value="1" >
     </E>
-    <E key="tnt" value="3" >
+    <E key="tnt" value="4" >
     </E>
     <E key="zombie" value="19" >
     </E>

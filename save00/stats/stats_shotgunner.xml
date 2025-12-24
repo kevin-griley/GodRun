@@ -1,10 +1,10 @@
-<Stats deaths="2377" kills="992" player_kills="10" player_projectile_count="0" >
+<Stats deaths="2385" kills="996" player_kills="10" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="120" >
     </E>
     <E key="NULL | $damage_electricity" value="27" >
     </E>
-    <E key="NULL | $damage_explosion" value="206" >
+    <E key="NULL | $damage_explosion" value="207" >
     </E>
     <E key="NULL | $damage_fire" value="234" >
     </E>
@@ -38,7 +38,7 @@
     </E>
     <E key="acidshooter | $damage_projectile" value="1" >
     </E>
-    <E key="bat | $damage_melee" value="5" >
+    <E key="bat | $damage_melee" value="6" >
     </E>
     <E key="bigbat | $damage_melee" value="3" >
     </E>
@@ -106,7 +106,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="852" >
+    <E key="player | $damage_projectile" value="856" >
     </E>
     <E key="player | $damage_slice" value="78" >
     </E>
@@ -118,7 +118,7 @@
     </E>
     <E key="playerghost | $damage_slice" value="2" >
     </E>
-    <E key="rat | $damage_melee" value="14" >
+    <E key="rat | $damage_melee" value="15" >
     </E>
     <E key="scavenger_grenade | $damage_projectile" value="2" >
     </E>
@@ -126,7 +126,7 @@
     </E>
     <E key="shotgunner | $damage_explosion" value="10" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="13" >
+    <E key="slimeshooter | $damage_explosion" value="14" >
     </E>
     <E key="slimeshooter | $damage_projectile" value="4" >
     </E>
@@ -158,7 +158,7 @@
     </E>
     <E key="cocktail" value="1" >
     </E>
-    <E key="firebug" value="44" >
+    <E key="firebug" value="45" >
     </E>
     <E key="fish_large" value="8" >
     </E>
@@ -188,7 +188,7 @@
     </E>
     <E key="potion" value="2" >
     </E>
-    <E key="rat" value="728" >
+    <E key="rat" value="731" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>

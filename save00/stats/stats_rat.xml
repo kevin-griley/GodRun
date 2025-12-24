@@ -1,12 +1,12 @@
-<Stats deaths="6808" kills="200" player_kills="1" player_projectile_count="0" >
+<Stats deaths="6830" kills="202" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="113" >
     </E>
     <E key="NULL | $damage_electricity" value="35" >
     </E>
-    <E key="NULL | $damage_explosion" value="491" >
+    <E key="NULL | $damage_explosion" value="492" >
     </E>
-    <E key="NULL | $damage_fire" value="398" >
+    <E key="NULL | $damage_fire" value="404" >
     </E>
     <E key="NULL | $damage_ice" value="9" >
     </E>
@@ -68,7 +68,7 @@
     </E>
     <E key="firebug | $damage_fire" value="54" >
     </E>
-    <E key="firebug | $damage_melee" value="34" >
+    <E key="firebug | $damage_melee" value="35" >
     </E>
     <E key="fireskull | $damage_melee" value="21" >
     </E>
@@ -82,7 +82,7 @@
     </E>
     <E key="goblin_bomb | $damage_explosion" value="37" >
     </E>
-    <E key="goblin_bomb | $damage_melee" value="59" >
+    <E key="goblin_bomb | $damage_melee" value="60" >
     </E>
     <E key="homunculus | $damage_projectile" value="4" >
     </E>
@@ -108,13 +108,15 @@
     </E>
     <E key="meatmaggot | worm bite" value="4" >
     </E>
-    <E key="miner | $damage_explosion" value="141" >
+    <E key="miner | $damage_explosion" value="142" >
     </E>
-    <E key="miner | $damage_melee" value="82" >
+    <E key="miner | $damage_melee" value="83" >
     </E>
     <E key="miner_hell | $damage_explosion" value="5" >
     </E>
     <E key="miner_hell | $damage_melee" value="1" >
+    </E>
+    <E key="miner_santa | $damage_melee" value="1" >
     </E>
     <E key="miniblob | $damage_melee" value="64" >
     </E>
@@ -146,7 +148,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="621" >
+    <E key="player | $damage_projectile" value="624" >
     </E>
     <E key="player | $damage_slice" value="53" >
     </E>
@@ -202,15 +204,15 @@
     </E>
     <E key="shotgunner | $damage_melee" value="171" >
     </E>
-    <E key="shotgunner | $damage_projectile" value="556" >
+    <E key="shotgunner | $damage_projectile" value="559" >
     </E>
     <E key="shotgunner_hell | $damage_melee" value="4" >
     </E>
-    <E key="slimeshooter | $damage_explosion" value="81" >
+    <E key="slimeshooter | $damage_explosion" value="83" >
     </E>
     <E key="slimeshooter | $damage_melee" value="7" >
     </E>
-    <E key="slimeshooter | $damage_projectile" value="160" >
+    <E key="slimeshooter | $damage_projectile" value="162" >
     </E>
     <E key="slimeshooter_nontoxic | $damage_projectile" value="6" >
     </E>
@@ -292,7 +294,7 @@
     </E>
     <E key="bigbat" value="3" >
     </E>
-    <E key="firebug" value="44" >
+    <E key="firebug" value="45" >
     </E>
     <E key="fireskull" value="1" >
     </E>
@@ -314,7 +316,7 @@
     </E>
     <E key="scavenger_smg" value="7" >
     </E>
-    <E key="shotgunner" value="14" >
+    <E key="shotgunner" value="15" >
     </E>
     <E key="slimeshooter" value="12" >
     </E>

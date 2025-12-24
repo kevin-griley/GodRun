@@ -1,4 +1,4 @@
-<Stats deaths="1129" kills="354" player_kills="5" player_projectile_count="0" >
+<Stats deaths="1134" kills="354" player_kills="5" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="11" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="38" >
     </E>
-    <E key="NULL | $damage_fire" value="110" >
+    <E key="NULL | $damage_fire" value="111" >
     </E>
     <E key="NULL | $damage_physicshit" value="16" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="longleg | $damage_melee" value="5" >
     </E>
-    <E key="miner_weak | $damage_explosion" value="71" >
+    <E key="miner_weak | $damage_explosion" value="72" >
     </E>
     <E key="miner_weak | $damage_melee" value="14" >
     </E>
@@ -26,7 +26,7 @@
     </E>
     <E key="player | $damage_explosion" value="5" >
     </E>
-    <E key="player | $damage_projectile" value="597" >
+    <E key="player | $damage_projectile" value="599" >
     </E>
     <E key="player | $damage_slice" value="117" >
     </E>
@@ -34,7 +34,7 @@
     </E>
     <E key="shotgunner_weak | $damage_melee" value="2" >
     </E>
-    <E key="shotgunner_weak | $damage_projectile" value="55" >
+    <E key="shotgunner_weak | $damage_projectile" value="56" >
     </E>
     <E key="slimeshooter_nontoxic | $damage_explosion" value="4" >
     </E>
