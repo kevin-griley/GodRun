@@ -1,22 +1,22 @@
-<Stats deaths="1629" kills="369" player_kills="2" player_projectile_count="0" >
+<Stats deaths="1644" kills="371" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="88" >
     </E>
     <E key="NULL | $damage_electricity" value="23" >
     </E>
-    <E key="NULL | $damage_explosion" value="75" >
+    <E key="NULL | $damage_explosion" value="76" >
     </E>
-    <E key="NULL | $damage_fire" value="288" >
+    <E key="NULL | $damage_fire" value="289" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="92" >
+    <E key="NULL | $damage_physicshit" value="93" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="2" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
-    <E key="NULL | $damage_radioactive" value="212" >
+    <E key="NULL | $damage_radioactive" value="214" >
     </E>
     <E key="NULL | damage from material: Poison" value="1" >
     </E>
@@ -68,7 +68,7 @@
     </E>
     <E key="player | $damage_electricity" value="6" >
     </E>
-    <E key="player | $damage_explosion" value="9" >
+    <E key="player | $damage_explosion" value="13" >
     </E>
     <E key="player | $damage_fire" value="5" >
     </E>
@@ -78,7 +78,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="559" >
+    <E key="player | $damage_projectile" value="565" >
     </E>
     <E key="player | $damage_slice" value="54" >
     </E>
@@ -152,7 +152,7 @@
     </E>
     <E key="sniper" value="2" >
     </E>
-    <E key="zombie" value="2" >
+    <E key="zombie" value="4" >
     </E>
   </kill_map>
 </Stats>

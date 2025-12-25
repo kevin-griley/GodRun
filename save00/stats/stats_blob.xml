@@ -1,14 +1,14 @@
-<Stats deaths="606" kills="162" player_kills="1" player_projectile_count="0" >
+<Stats deaths="619" kills="165" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="4" >
     </E>
     <E key="NULL | $damage_electricity" value="25" >
     </E>
-    <E key="NULL | $damage_explosion" value="239" >
+    <E key="NULL | $damage_explosion" value="241" >
     </E>
     <E key="NULL | $damage_melee" value="1" >
     </E>
-    <E key="NULL | $damage_physicshit" value="10" >
+    <E key="NULL | $damage_physicshit" value="11" >
     </E>
     <E key="NULL | $damage_projectile" value="2" >
     </E>
@@ -50,15 +50,15 @@
     </E>
     <E key="missilecrab | $damage_explosion" value="1" >
     </E>
-    <E key="plague_rats_rat | $damage_melee" value="17" >
+    <E key="plague_rats_rat | $damage_melee" value="19" >
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="35" >
+    <E key="player | $damage_explosion" value="41" >
     </E>
     <E key="player | $damage_fire" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="162" >
+    <E key="player | $damage_projectile" value="163" >
     </E>
     <E key="player | $damage_slice" value="13" >
     </E>
@@ -71,6 +71,8 @@
     <E key="scavenger_clusterbomb | $damage_melee" value="1" >
     </E>
     <E key="scavenger_glue | $damage_melee" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_explosion" value="1" >
     </E>
     <E key="shotgunner | $damage_melee" value="1" >
     </E>
@@ -124,11 +126,11 @@
     </E>
     <E key="miniblob" value="11" >
     </E>
-    <E key="plague_rats_rat" value="4" >
+    <E key="plague_rats_rat" value="6" >
     </E>
     <E key="player" value="1" >
     </E>
-    <E key="rat" value="89" >
+    <E key="rat" value="90" >
     </E>
     <E key="sheep" value="2" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="75" kills="20" player_kills="0" player_projectile_count="0" >
+<Stats deaths="77" kills="21" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="3" >
     </E>
-    <E key="NULL | $damage_fire" value="7" >
+    <E key="NULL | $damage_fire" value="8" >
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
@@ -21,6 +21,8 @@
     <E key="player | $damage_explosion" value="7" >
     </E>
     <E key="player | $damage_projectile" value="41" >
+    </E>
+    <E key="skullfly | $damage_fire" value="1" >
     </E>
     <E key="skullrat | $damage_melee" value="1" >
     </E>
@@ -49,6 +51,8 @@
     <E key="plague_rats_rat" value="3" >
     </E>
     <E key="scorpion" value="3" >
+    </E>
+    <E key="skullfly" value="1" >
     </E>
     <E key="slimeshooter_boss_limbs" value="2" >
     </E>

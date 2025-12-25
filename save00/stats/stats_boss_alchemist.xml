@@ -1,5 +1,7 @@
-<Stats deaths="5" kills="21" player_kills="2" player_projectile_count="0" >
+<Stats deaths="6" kills="21" player_kills="2" player_projectile_count="0" >
   <death_map>
+    <E key="player | $damage_drill" value="1" >
+    </E>
     <E key="player | $damage_projectile" value="3" >
     </E>
     <E key="projectile_counter | $damage_fire" value="1" >

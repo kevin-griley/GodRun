@@ -1,10 +1,12 @@
-<Stats deaths="37" kills="10" player_kills="0" player_projectile_count="0" >
+<Stats deaths="38" kills="10" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="13" >
     </E>
     <E key="NULL | $damage_electricity" value="2" >
     </E>
     <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_fire" value="1" >
     </E>
     <E key="lukki_dark | $damage_curse" value="1" >
     </E>

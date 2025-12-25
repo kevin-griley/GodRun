@@ -1,12 +1,12 @@
-<Stats deaths="3330" kills="500" player_kills="4" player_projectile_count="0" >
+<Stats deaths="3459" kills="508" player_kills="4" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="95" >
     </E>
     <E key="NULL | $damage_electricity" value="49" >
     </E>
-    <E key="NULL | $damage_explosion" value="309" >
+    <E key="NULL | $damage_explosion" value="315" >
     </E>
-    <E key="NULL | $damage_fire" value="88" >
+    <E key="NULL | $damage_fire" value="91" >
     </E>
     <E key="NULL | $damage_ice" value="4" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="4" >
     </E>
-    <E key="NULL | $damage_radioactive" value="49" >
+    <E key="NULL | $damage_radioactive" value="57" >
     </E>
     <E key="NULL | damage from material: Poison" value="1" >
     </E>
@@ -26,19 +26,23 @@
     </E>
     <E key="NULL | damage from material: freezing liquid" value="5" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="146" >
+    <E key="NULL | damage from material: freezing vapour" value="150" >
     </E>
     <E key="NULL | damage from material: lava" value="1" >
     </E>
-    <E key="bigzombie | $damage_explosion" value="3" >
+    <E key="bigzombie | $damage_explosion" value="4" >
     </E>
     <E key="bigzombie | $damage_melee" value="1" >
+    </E>
+    <E key="bigzombietorso | $damage_explosion" value="1" >
     </E>
     <E key="bloom | $damage_explosion" value="1" >
     </E>
     <E key="contact_damage | $damage_curse" value="2" >
     </E>
-    <E key="drone_lasership | $damage_projectile" value="28" >
+    <E key="drone_lasership | $damage_explosion" value="1" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="29" >
     </E>
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
     </E>
@@ -72,13 +76,13 @@
     </E>
     <E key="physics_ragdoll_ai | $damage_explosion" value="1" >
     </E>
-    <E key="plague_rats_rat | $damage_melee" value="45" >
+    <E key="plague_rats_rat | $damage_melee" value="56" >
     </E>
-    <E key="player | $damage_drill" value="35" >
+    <E key="player | $damage_drill" value="41" >
     </E>
     <E key="player | $damage_electricity" value="9" >
     </E>
-    <E key="player | $damage_explosion" value="144" >
+    <E key="player | $damage_explosion" value="174" >
     </E>
     <E key="player | $damage_fire" value="64" >
     </E>
@@ -86,7 +90,7 @@
     </E>
     <E key="player | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="1713" >
+    <E key="player | $damage_projectile" value="1770" >
     </E>
     <E key="player | $damage_slice" value="142" >
     </E>
@@ -148,11 +152,11 @@
   <kill_map>
     <E key="acidshot" value="1" >
     </E>
-    <E key="bigzombie" value="4" >
+    <E key="bigzombie" value="5" >
     </E>
-    <E key="bigzombiehead" value="1" >
+    <E key="bigzombiehead" value="2" >
     </E>
-    <E key="bigzombietorso" value="1" >
+    <E key="bigzombietorso" value="2" >
     </E>
     <E key="bomb" value="1" >
     </E>
@@ -164,7 +168,7 @@
     </E>
     <E key="fly" value="1" >
     </E>
-    <E key="glue" value="3" >
+    <E key="glue" value="8" >
     </E>
     <E key="iceskull" value="45" >
     </E>

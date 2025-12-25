@@ -1,4 +1,4 @@
-<Stats deaths="220" kills="102" player_kills="3" player_projectile_count="0" >
+<Stats deaths="232" kills="116" player_kills="3" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="5" >
     </E>
@@ -10,11 +10,11 @@
     </E>
     <E key="NULL | $damage_physicshit" value="12" >
     </E>
-    <E key="NULL | $damage_radioactive" value="7" >
+    <E key="NULL | $damage_radioactive" value="8" >
     </E>
     <E key="NULL | damage from material: acid" value="3" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="6" >
+    <E key="NULL | damage from material: freezing vapour" value="7" >
     </E>
     <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="1" >
     </E>
@@ -28,11 +28,11 @@
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="18" >
+    <E key="player | $damage_explosion" value="25" >
     </E>
     <E key="player | $damage_ice" value="2" >
     </E>
-    <E key="player | $damage_projectile" value="127" >
+    <E key="player | $damage_projectile" value="130" >
     </E>
     <E key="player | $damage_slice" value="10" >
     </E>
@@ -50,13 +50,17 @@
     </E>
     <E key="bigzombietorso" value="2" >
     </E>
+    <E key="blob" value="1" >
+    </E>
     <E key="bloom" value="1" >
     </E>
     <E key="drone_lasership" value="3" >
     </E>
-    <E key="glue" value="14" >
+    <E key="glue" value="19" >
     </E>
     <E key="iceskull" value="7" >
+    </E>
+    <E key="miniblob" value="7" >
     </E>
     <E key="physics_ragdoll_ai" value="1" >
     </E>
@@ -70,7 +74,7 @@
     </E>
     <E key="scavenger_grenade" value="5" >
     </E>
-    <E key="scavenger_heal" value="2" >
+    <E key="scavenger_heal" value="3" >
     </E>
     <E key="scavenger_invis" value="1" >
     </E>

@@ -1,10 +1,10 @@
-<Stats deaths="135" kills="0" player_kills="0" player_projectile_count="0" >
+<Stats deaths="140" kills="0" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_electricity" value="4" >
     </E>
-    <E key="NULL | $damage_explosion" value="15" >
+    <E key="NULL | $damage_explosion" value="16" >
     </E>
     <E key="NULL | $damage_fire" value="28" >
     </E>
@@ -20,17 +20,17 @@
     </E>
     <E key="lukki_dark | $damage_curse" value="1" >
     </E>
-    <E key="plague_rats_rat | $damage_melee" value="1" >
+    <E key="plague_rats_rat | $damage_melee" value="2" >
     </E>
     <E key="player | $damage_drill" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="13" >
+    <E key="player | $damage_explosion" value="15" >
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
     <E key="player | $damage_ice" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="45" >
+    <E key="player | $damage_projectile" value="46" >
     </E>
     <E key="player | $damage_slice" value="5" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="5918" kills="170" player_kills="2" player_projectile_count="0" >
+<Stats deaths="5921" kills="170" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="222" >
     </E>
@@ -6,7 +6,7 @@
     </E>
     <E key="NULL | $damage_explosion" value="164" >
     </E>
-    <E key="NULL | $damage_fire" value="651" >
+    <E key="NULL | $damage_fire" value="652" >
     </E>
     <E key="NULL | $damage_melee" value="8" >
     </E>
@@ -38,7 +38,7 @@
     </E>
     <E key="miner_weak | $damage_explosion" value="788" >
     </E>
-    <E key="miner_weak | $damage_melee" value="532" >
+    <E key="miner_weak | $damage_melee" value="533" >
     </E>
     <E key="miner_weak | $damage_projectile" value="13" >
     </E>
@@ -80,7 +80,7 @@
     </E>
     <E key="slimeshooter_weak | $damage_melee" value="19" >
     </E>
-    <E key="slimeshooter_weak | $damage_projectile" value="128" >
+    <E key="slimeshooter_weak | $damage_projectile" value="129" >
     </E>
     <E key="worm | worm bite" value="76" >
     </E>

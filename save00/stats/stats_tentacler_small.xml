@@ -1,8 +1,8 @@
-<Stats deaths="356" kills="84" player_kills="0" player_projectile_count="0" >
+<Stats deaths="359" kills="84" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="7" >
     </E>
-    <E key="NULL | $damage_electricity" value="7" >
+    <E key="NULL | $damage_electricity" value="8" >
     </E>
     <E key="NULL | $damage_explosion" value="54" >
     </E>
@@ -16,7 +16,7 @@
     </E>
     <E key="NULL | damage from material: Cursed rock" value="1" >
     </E>
-    <E key="NULL | damage from material: acid" value="7" >
+    <E key="NULL | damage from material: acid" value="8" >
     </E>
     <E key="NULL | damage from material: freezing vapour" value="4" >
     </E>
@@ -44,7 +44,7 @@
     </E>
     <E key="player | $damage_electricity" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="14" >
+    <E key="player | $damage_explosion" value="15" >
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>

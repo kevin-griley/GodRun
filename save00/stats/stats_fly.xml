@@ -1,10 +1,10 @@
-<Stats deaths="747" kills="17" player_kills="0" player_projectile_count="0" >
+<Stats deaths="766" kills="17" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="13" >
     </E>
     <E key="NULL | $damage_electricity" value="8" >
     </E>
-    <E key="NULL | $damage_explosion" value="127" >
+    <E key="NULL | $damage_explosion" value="129" >
     </E>
     <E key="NULL | $damage_physicshit" value="4" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="ant | $damage_melee" value="1" >
     </E>
-    <E key="bloom | $damage_explosion" value="2" >
+    <E key="bloom | $damage_explosion" value="3" >
     </E>
     <E key="bloom | $damage_projectile" value="3" >
     </E>
@@ -30,13 +30,13 @@
     </E>
     <E key="maggot | $damage_melee" value="1" >
     </E>
-    <E key="plague_rats_rat | $damage_melee" value="4" >
+    <E key="plague_rats_rat | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_drill" value="12" >
+    <E key="player | $damage_drill" value="13" >
     </E>
     <E key="player | $damage_electricity" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="49" >
+    <E key="player | $damage_explosion" value="58" >
     </E>
     <E key="player | $damage_fire" value="11" >
     </E>
@@ -44,7 +44,7 @@
     </E>
     <E key="player | $damage_ice" value="8" >
     </E>
-    <E key="player | $damage_projectile" value="386" >
+    <E key="player | $damage_projectile" value="387" >
     </E>
     <E key="player | $damage_slice" value="45" >
     </E>
@@ -60,7 +60,7 @@
     </E>
     <E key="scavenger_grenade | $damage_melee" value="1" >
     </E>
-    <E key="shooterflower | $damage_projectile" value="15" >
+    <E key="shooterflower | $damage_projectile" value="18" >
     </E>
     <E key="slimeshooter_nontoxic | $damage_projectile" value="1" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="147" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="154" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="7" >
     </E>
@@ -24,9 +24,9 @@
     </E>
     <E key="flamer | $damage_fire" value="1" >
     </E>
-    <E key="plague_rats_rat | $damage_melee" value="4" >
+    <E key="plague_rats_rat | $damage_melee" value="6" >
     </E>
-    <E key="player | $damage_explosion" value="15" >
+    <E key="player | $damage_explosion" value="19" >
     </E>
     <E key="player | $damage_fire" value="2" >
     </E>
@@ -38,7 +38,7 @@
     </E>
     <E key="scavenger_glue | $damage_melee" value="1" >
     </E>
-    <E key="scavenger_grenade | $damage_melee" value="1" >
+    <E key="scavenger_grenade | $damage_melee" value="2" >
     </E>
     <E key="scavenger_leader | $damage_projectile" value="1" >
     </E>

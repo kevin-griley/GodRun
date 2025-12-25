@@ -1,10 +1,10 @@
-<Stats deaths="355" kills="26" player_kills="1" player_projectile_count="0" >
+<Stats deaths="367" kills="27" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="9" >
     </E>
     <E key="NULL | $damage_explosion" value="33" >
     </E>
-    <E key="NULL | $damage_fire" value="130" >
+    <E key="NULL | $damage_fire" value="135" >
     </E>
     <E key="NULL | $damage_physicshit" value="5" >
     </E>
@@ -12,7 +12,7 @@
     </E>
     <E key="NULL | damage from material: acid" value="4" >
     </E>
-    <E key="NULL | damage from material: lava" value="3" >
+    <E key="NULL | damage from material: lava" value="4" >
     </E>
     <E key="bloom | $damage_explosion" value="1" >
     </E>
@@ -28,13 +28,13 @@
     </E>
     <E key="player | $damage_drill" value="5" >
     </E>
-    <E key="player | $damage_explosion" value="23" >
+    <E key="player | $damage_explosion" value="27" >
     </E>
     <E key="player | $damage_fire" value="3" >
     </E>
     <E key="player | $damage_ice" value="3" >
     </E>
-    <E key="player | $damage_projectile" value="100" >
+    <E key="player | $damage_projectile" value="101" >
     </E>
     <E key="player | $damage_slice" value="12" >
     </E>
@@ -48,13 +48,13 @@
     </E>
     <E key="tentacler_small | $damage_melee" value="1" >
     </E>
-    <E key="worm | worm bite" value="8" >
+    <E key="worm | worm bite" value="9" >
     </E>
   </death_map>
   <kill_map>
     <E key="bloom" value="2" >
     </E>
-    <E key="fly" value="5" >
+    <E key="fly" value="6" >
     </E>
     <E key="lukki" value="2" >
     </E>

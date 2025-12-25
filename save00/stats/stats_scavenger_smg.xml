@@ -1,28 +1,32 @@
-<Stats deaths="2119" kills="436" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2185" kills="439" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="39" >
+    <E key="NULL | $damage_drowning" value="42" >
     </E>
     <E key="NULL | $damage_electricity" value="26" >
     </E>
-    <E key="NULL | $damage_explosion" value="224" >
+    <E key="NULL | $damage_explosion" value="229" >
     </E>
-    <E key="NULL | $damage_fire" value="65" >
+    <E key="NULL | $damage_fire" value="67" >
     </E>
     <E key="NULL | $damage_ice" value="3" >
     </E>
-    <E key="NULL | $damage_physicshit" value="96" >
+    <E key="NULL | $damage_physicshit" value="97" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="2" >
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="21" >
+    <E key="NULL | $damage_radioactive" value="22" >
     </E>
     <E key="NULL | damage from material: acid" value="4" >
     </E>
     <E key="NULL | damage from material: freezing liquid" value="15" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="132" >
+    <E key="NULL | damage from material: freezing vapour" value="136" >
+    </E>
+    <E key="acidshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="bigzombie | $damage_explosion" value="2" >
     </E>
     <E key="bigzombietorso | $damage_explosion" value="2" >
     </E>
@@ -54,17 +58,17 @@
     </E>
     <E key="plague_rats_rat | $damage_melee" value="15" >
     </E>
-    <E key="player | $damage_drill" value="30" >
+    <E key="player | $damage_drill" value="31" >
     </E>
     <E key="player | $damage_electricity" value="6" >
     </E>
-    <E key="player | $damage_explosion" value="54" >
+    <E key="player | $damage_explosion" value="68" >
     </E>
     <E key="player | $damage_fire" value="37" >
     </E>
     <E key="player | $damage_ice" value="18" >
     </E>
-    <E key="player | $damage_projectile" value="1045" >
+    <E key="player | $damage_projectile" value="1077" >
     </E>
     <E key="player | $damage_slice" value="99" >
     </E>
@@ -134,7 +138,7 @@
     </E>
     <E key="iceskull" value="22" >
     </E>
-    <E key="miniblob" value="3" >
+    <E key="miniblob" value="6" >
     </E>
     <E key="pebble_player_physics" value="5" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="6972" kills="205" player_kills="1" player_projectile_count="0" >
+<Stats deaths="6974" kills="205" player_kills="1" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="116" >
     </E>
@@ -48,7 +48,7 @@
     </E>
     <E key="bigfirebug | $damage_projectile" value="11" >
     </E>
-    <E key="blob | $damage_melee" value="89" >
+    <E key="blob | $damage_melee" value="90" >
     </E>
     <E key="boss_alchemist | $damage_projectile" value="1" >
     </E>
@@ -118,7 +118,7 @@
     </E>
     <E key="miner_santa | $damage_melee" value="1" >
     </E>
-    <E key="miniblob | $damage_melee" value="64" >
+    <E key="miniblob | $damage_melee" value="65" >
     </E>
     <E key="monk | $damage_projectile" value="10" >
     </E>

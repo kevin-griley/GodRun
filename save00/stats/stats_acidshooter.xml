@@ -1,4 +1,4 @@
-<Stats deaths="275" kills="45" player_kills="0" player_projectile_count="0" >
+<Stats deaths="283" kills="46" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -6,9 +6,9 @@
     </E>
     <E key="NULL | $damage_explosion" value="45" >
     </E>
-    <E key="NULL | $damage_fire" value="28" >
+    <E key="NULL | $damage_fire" value="29" >
     </E>
-    <E key="NULL | $damage_physicshit" value="7" >
+    <E key="NULL | $damage_physicshit" value="8" >
     </E>
     <E key="NULL | $damage_plasmabeam" value="1" >
     </E>
@@ -28,11 +28,11 @@
     </E>
     <E key="phantom_a | $damage_projectile" value="1" >
     </E>
-    <E key="plague_rats_rat | $damage_melee" value="1" >
+    <E key="plague_rats_rat | $damage_melee" value="2" >
     </E>
     <E key="player | $damage_drill" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="21" >
+    <E key="player | $damage_explosion" value="26" >
     </E>
     <E key="player | $damage_fire" value="4" >
     </E>
@@ -83,6 +83,8 @@
     <E key="rat" value="21" >
     </E>
     <E key="scavenger_glue" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
     </E>
     <E key="scorpion" value="14" >
     </E>

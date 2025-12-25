@@ -1,4 +1,4 @@
-<Stats deaths="78" kills="1" player_kills="0" player_projectile_count="0" >
+<Stats deaths="80" kills="1" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="7" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="lukki_minion | $damage_curse" value="1" >
     </E>
-    <E key="plague_rats_rat | $damage_melee" value="3" >
+    <E key="plague_rats_rat | $damage_melee" value="4" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
@@ -35,6 +35,8 @@
     <E key="rat | $damage_melee" value="2" >
     </E>
     <E key="slimeshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="thunderskull | $damage_electricity" value="1" >
     </E>
   </death_map>
   <kill_map>

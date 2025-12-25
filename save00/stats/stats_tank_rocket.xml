@@ -1,4 +1,4 @@
-<Stats deaths="112" kills="63" player_kills="2" player_projectile_count="0" >
+<Stats deaths="115" kills="63" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_electricity" value="6" >
     </E>
@@ -10,9 +10,9 @@
     </E>
     <E key="plague_rats_rat | $damage_melee" value="1" >
     </E>
-    <E key="player | $damage_explosion" value="14" >
+    <E key="player | $damage_explosion" value="16" >
     </E>
-    <E key="player | $damage_projectile" value="61" >
+    <E key="player | $damage_projectile" value="62" >
     </E>
     <E key="thunderskull | $damage_explosion" value="1" >
     </E>

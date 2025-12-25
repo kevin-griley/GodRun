@@ -1,8 +1,8 @@
-<Stats deaths="104" kills="33" player_kills="0" player_projectile_count="0" >
+<Stats deaths="108" kills="36" player_kills="0" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="13" >
+    <E key="NULL | $damage_drowning" value="14" >
     </E>
-    <E key="NULL | $damage_explosion" value="18" >
+    <E key="NULL | $damage_explosion" value="19" >
     </E>
     <E key="NULL | $damage_ice" value="1" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="monk | $damage_projectile" value="2" >
     </E>
-    <E key="player | $damage_explosion" value="3" >
+    <E key="player | $damage_explosion" value="5" >
     </E>
     <E key="player | $damage_projectile" value="26" >
     </E>
@@ -60,6 +60,8 @@
     </E>
   </death_map>
   <kill_map>
+    <E key="alchemist" value="1" >
+    </E>
     <E key="drone_lasership" value="1" >
     </E>
     <E key="lasershooter" value="1" >
@@ -68,13 +70,15 @@
     </E>
     <E key="monk" value="1" >
     </E>
+    <E key="plague_rats_rat" value="1" >
+    </E>
     <E key="rat" value="23" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
     <E key="scavenger_smg" value="3" >
     </E>
-    <E key="scorpion" value="1" >
+    <E key="scorpion" value="2" >
     </E>
     <E key="tank_rocket" value="1" >
     </E>

@@ -1,4 +1,4 @@
-<Stats deaths="2805" kills="1884" player_kills="4" player_projectile_count="0" >
+<Stats deaths="2805" kills="1887" player_kills="4" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="113" >
     </E>
@@ -96,7 +96,7 @@
     </E>
     <E key="miniblob" value="3" >
     </E>
-    <E key="plague_rats_rat" value="1" >
+    <E key="plague_rats_rat" value="3" >
     </E>
     <E key="player" value="4" >
     </E>
@@ -114,7 +114,7 @@
     </E>
     <E key="zombie" value="65" >
     </E>
-    <E key="zombie_weak" value="1336" >
+    <E key="zombie_weak" value="1337" >
     </E>
   </kill_map>
 </Stats>

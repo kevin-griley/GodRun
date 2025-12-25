@@ -19,13 +19,13 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="-1.1242" 
-    clouds_02_target="-41.9322" 
+    clouds_01_target="21.6633" 
+    clouds_02_target="9.20499" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="13" 
-    fog="0.110045" 
-    fog_target="0.10506" 
+    day_count="23" 
+    fog="0.708019" 
+    fog_target="0.713009" 
     global_genome_relations_modifier="0" 
     gore_multiplier="1" 
     gradient_sky_alpha_target="0" 
@@ -42,7 +42,7 @@
     perk_gold_is_forever="0" 
     perk_hp_drop_chance="0" 
     perk_infinite_spells="0" 
-    perk_rats_player_friendly="0" 
+    perk_rats_player_friendly="1" 
     perk_trick_kills_blood_money="0" 
     player_did_damage_over_1milj="0" 
     player_did_infinite_spell_count="0" 
@@ -51,31 +51,31 @@
     player_polymorph_random_count="0" 
     player_spawn_location.x="0" 
     player_spawn_location.y="0" 
-    rain="0.00499067" 
-    rain_target="0" 
+    rain="0.708019" 
+    rain_target="0.713009" 
     session_stat_file="??STA/sessions/20251224-001525" 
     sky_sunset_alpha_target="1" 
-    time="0.276508" 
+    time="0.661888" 
     time_dt="1" 
-    time_total="12.2313" 
+    time_total="22.5364" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="0.273233" 
-    wind_speed="16.3941" 
+    wind="0.10204" 
+    wind_speed="6.12246" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
       <E 
         key="HELPLESS_KILLS" 
-        value="4" >
+        value="10" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
-        value="9" >
+        value="16" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_VISITS" 
-        value="3" >
+        value="5" >
       </E>
       <E 
         key="ORB_MAP_STRING" 
@@ -86,8 +86,28 @@
         value="1" >
       </E>
       <E 
+        key="PERK_PICKED_PLAGUE_RATS_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_PROTECTION_EXPLOSION_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
         key="PERK_PICKED_RADAR_ENEMY_PICKUP_COUNT" 
         value="1" >
+      </E>
+      <E 
+        key="PERK_PICKED_REVENGE_RATS_PICKUP_COUNT" 
+        value="1" >
+      </E>
+      <E 
+        key="PLAYER_RATTINESS_LEVEL" 
+        value="2" >
+      </E>
+      <E 
+        key="RAT_PERK_TOTAL_COUNT" 
+        value="2" >
       </E>
       <E 
         key="TEMPLE_ACTIVE_-359_1307" 
@@ -95,6 +115,26 @@
       </E>
       <E 
         key="TEMPLE_ACTIVE_-359_2843" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_4891" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_6427" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_ACTIVE_-359_8475" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_0_12" 
+        value="1" >
+      </E>
+      <E 
+        key="TEMPLE_LEAKED_0_16" 
         value="1" >
       </E>
       <E 
@@ -106,8 +146,20 @@
         value="1" >
       </E>
       <E 
+        key="TEMPLE_LEAKED_0_9" 
+        value="1" >
+      </E>
+      <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="10" >
+        value="16" >
+      </E>
+      <E 
+        key="TEMPLE_PERK_REROLL_COUNT" 
+        value="3" >
+      </E>
+      <E 
+        key="TEMPLE_REROLL_PERK_INDEX" 
+        value="96" >
       </E>
       <E 
         key="TEMPLE_SPAWN_GUARDIAN" 
@@ -115,11 +167,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_holymountain,$biome_snowcave,$biome_fungicave,$biome_excavationsite,$biom" >
+        value="$biome_orbroom,_EMPTY_,$biome_snowcave,$biome_snowcastle,$biome_holymountain,$bi" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="17" >
+        value="49" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -134,6 +186,9 @@
     <orbs_found_thisrun>
       <primitive>
         0
+      </primitive>
+      <primitive>
+        1
       </primitive>
     </orbs_found_thisrun>
     <flags>
@@ -181,6 +236,72 @@
       </string>
       <string>
         PERK_EXTRA_SLOTS
+      </string>
+      <string>
+        PERK_PROJECTILE_REPULSION_SECTOR
+      </string>
+      <string>
+        PERK_BREATH_UNDERWATER
+      </string>
+      <string>
+        PERK_TELEPORTITIS
+      </string>
+      <string>
+        PERK_VOMIT_RATS
+      </string>
+      <string>
+        PERK_EXTRA_MANA
+      </string>
+      <string>
+        PERK_WORM_SMALLER_HOLES
+      </string>
+      <string>
+        PERK_PROTECTION_EXPLOSION
+      </string>
+      <string>
+        PERK_ABILITY_ACTIONS_MATERIALIZED
+      </string>
+      <string>
+        PERK_EXTRA_MONEY
+      </string>
+      <string>
+        PERK_PICKED_PROTECTION_EXPLOSION
+      </string>
+      <string>
+        PERK_PLAGUE_RATS
+      </string>
+      <string>
+        PERK_STRONG_KICK
+      </string>
+      <string>
+        PERK_GENOME_MORE_HATRED
+      </string>
+      <string>
+        new_action_remove_bounce
+      </string>
+      <string>
+        PERK_PICKED_PLAGUE_RATS
+      </string>
+      <string>
+        new_action_chain_shot
+      </string>
+      <string>
+        new_action_nolla
+      </string>
+      <string>
+        new_action_mu
+      </string>
+      <string>
+        PERK_HOMUNCULUS
+      </string>
+      <string>
+        PERK_REVENGE_RATS
+      </string>
+      <string>
+        PERK_DEATH_GHOST
+      </string>
+      <string>
+        PERK_PICKED_REVENGE_RATS
       </string>
     </flags>
     <changed_materials>
