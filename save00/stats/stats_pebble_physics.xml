@@ -1,28 +1,28 @@
-<Stats deaths="761" kills="348" player_kills="0" player_projectile_count="0" >
+<Stats deaths="800" kills="365" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
     <E key="NULL | $damage_electricity" value="1" >
     </E>
-    <E key="NULL | $damage_explosion" value="26" >
+    <E key="NULL | $damage_explosion" value="27" >
     </E>
-    <E key="NULL | $damage_physicshit" value="7" >
+    <E key="NULL | $damage_physicshit" value="9" >
     </E>
     <E key="NULL | damage from material: acid" value="2" >
     </E>
     <E key="NULL | damage from material: freezing liquid" value="1" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="195" >
+    <E key="NULL | damage from material: freezing vapour" value="201" >
     </E>
     <E key="NULL | physics body damaged" value="2" >
     </E>
     <E key="icemage | $damage_explosion" value="1" >
     </E>
-    <E key="pebble_physics | $damage_explosion" value="347" >
+    <E key="pebble_physics | $damage_explosion" value="364" >
     </E>
     <E key="player | $damage_explosion" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="153" >
+    <E key="player | $damage_projectile" value="166" >
     </E>
     <E key="player | $damage_slice" value="1" >
     </E>
@@ -40,7 +40,7 @@
     </E>
   </death_map>
   <kill_map>
-    <E key="pebble_physics" value="347" >
+    <E key="pebble_physics" value="364" >
     </E>
     <E key="shotgunner" value="1" >
     </E>

@@ -1,10 +1,10 @@
-<Stats deaths="1313" kills="409" player_kills="9" player_projectile_count="0" >
+<Stats deaths="1319" kills="412" player_kills="9" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="25" >
     </E>
     <E key="NULL | $damage_electricity" value="11" >
     </E>
-    <E key="NULL | $damage_explosion" value="315" >
+    <E key="NULL | $damage_explosion" value="316" >
     </E>
     <E key="NULL | $damage_fire" value="73" >
     </E>
@@ -84,7 +84,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="466" >
+    <E key="player | $damage_projectile" value="469" >
     </E>
     <E key="player | $damage_slice" value="48" >
     </E>
@@ -130,11 +130,11 @@
     </E>
     <E key="sniper | $damage_projectile" value="65" >
     </E>
-    <E key="tank | $damage_projectile" value="3" >
+    <E key="tank | $damage_projectile" value="4" >
     </E>
     <E key="tank_rocket | $damage_projectile" value="1" >
     </E>
-    <E key="thundermage | $damage_electricity" value="5" >
+    <E key="thundermage | $damage_electricity" value="6" >
     </E>
     <E key="wizard_dark | $damage_slice" value="1" >
     </E>
@@ -192,7 +192,7 @@
     </E>
     <E key="radioactive_blob_trail" value="6" >
     </E>
-    <E key="rat" value="252" >
+    <E key="rat" value="255" >
     </E>
     <E key="scavenger_grenade" value="3" >
     </E>

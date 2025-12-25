@@ -1,10 +1,10 @@
-<Stats deaths="867" kills="772" player_kills="2" player_projectile_count="0" >
+<Stats deaths="881" kills="781" player_kills="2" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="21" >
     </E>
     <E key="NULL | $damage_electricity" value="14" >
     </E>
-    <E key="NULL | $damage_explosion" value="111" >
+    <E key="NULL | $damage_explosion" value="113" >
     </E>
     <E key="NULL | $damage_fire" value="60" >
     </E>
@@ -40,7 +40,7 @@
     </E>
     <E key="icemage | $damage_explosion" value="2" >
     </E>
-    <E key="iceskull | $damage_explosion" value="2" >
+    <E key="iceskull | $damage_explosion" value="3" >
     </E>
     <E key="iceskull | $damage_ice" value="5" >
     </E>
@@ -64,7 +64,7 @@
     </E>
     <E key="player | $damage_ice" value="9" >
     </E>
-    <E key="player | $damage_projectile" value="346" >
+    <E key="player | $damage_projectile" value="354" >
     </E>
     <E key="player | $damage_slice" value="28" >
     </E>
@@ -96,9 +96,9 @@
     </E>
     <E key="worm | worm bite" value="5" >
     </E>
-    <E key="worm_big | worm bite" value="22" >
+    <E key="worm_big | worm bite" value="23" >
     </E>
-    <E key="worm_tiny | worm bite" value="6" >
+    <E key="worm_tiny | worm bite" value="8" >
     </E>
   </death_map>
   <kill_map>
@@ -120,11 +120,11 @@
     </E>
     <E key="fly" value="2" >
     </E>
-    <E key="giant" value="1" >
+    <E key="giant" value="2" >
     </E>
     <E key="glue" value="2" >
     </E>
-    <E key="iceskull" value="64" >
+    <E key="iceskull" value="65" >
     </E>
     <E key="miniblob" value="52" >
     </E>
@@ -142,7 +142,7 @@
     </E>
     <E key="playerghost" value="1" >
     </E>
-    <E key="rat" value="476" >
+    <E key="rat" value="483" >
     </E>
     <E key="scavenger_grenade" value="15" >
     </E>

@@ -1,10 +1,10 @@
-<Stats deaths="2099" kills="433" player_kills="0" player_projectile_count="0" >
+<Stats deaths="2119" kills="436" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="39" >
     </E>
     <E key="NULL | $damage_electricity" value="26" >
     </E>
-    <E key="NULL | $damage_explosion" value="223" >
+    <E key="NULL | $damage_explosion" value="224" >
     </E>
     <E key="NULL | $damage_fire" value="65" >
     </E>
@@ -22,7 +22,7 @@
     </E>
     <E key="NULL | damage from material: freezing liquid" value="15" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="131" >
+    <E key="NULL | damage from material: freezing vapour" value="132" >
     </E>
     <E key="bigzombietorso | $damage_explosion" value="2" >
     </E>
@@ -38,7 +38,7 @@
     </E>
     <E key="icemage | $damage_explosion" value="1" >
     </E>
-    <E key="iceskull | $damage_explosion" value="13" >
+    <E key="iceskull | $damage_explosion" value="14" >
     </E>
     <E key="iceskull | $damage_ice" value="14" >
     </E>
@@ -64,7 +64,7 @@
     </E>
     <E key="player | $damage_ice" value="18" >
     </E>
-    <E key="player | $damage_projectile" value="1029" >
+    <E key="player | $damage_projectile" value="1045" >
     </E>
     <E key="player | $damage_slice" value="99" >
     </E>
@@ -112,7 +112,7 @@
     </E>
     <E key="worm | worm bite" value="5" >
     </E>
-    <E key="worm_big | worm bite" value="43" >
+    <E key="worm_big | worm bite" value="44" >
     </E>
     <E key="worm_tiny | worm bite" value="8" >
     </E>
@@ -142,7 +142,7 @@
     </E>
     <E key="plague_rats_rat" value="12" >
     </E>
-    <E key="rat" value="358" >
+    <E key="rat" value="361" >
     </E>
     <E key="scavenger_grenade" value="2" >
     </E>

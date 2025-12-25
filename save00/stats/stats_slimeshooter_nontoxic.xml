@@ -1,4 +1,4 @@
-<Stats deaths="41" kills="72" player_kills="0" player_projectile_count="0" >
+<Stats deaths="42" kills="73" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="2" >
     </E>
@@ -8,7 +8,7 @@
     </E>
     <E key="NULL | $damage_physicshit" value="3" >
     </E>
-    <E key="NULL | damage from material: freezing vapour" value="2" >
+    <E key="NULL | damage from material: freezing vapour" value="3" >
     </E>
     <E key="NULL | damage from material: lava" value="2" >
     </E>
@@ -63,6 +63,8 @@
     <E key="frog" value="1" >
     </E>
     <E key="fungus_tiny" value="2" >
+    </E>
+    <E key="iceskull" value="1" >
     </E>
     <E key="longleg" value="8" >
     </E>

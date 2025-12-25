@@ -19,13 +19,13 @@
     EVERYTHING_TO_GOLD="0" 
     INFINITE_GOLD_HAPPENING="0" 
     _enabled="1" 
-    clouds_01_target="14.2883" 
-    clouds_02_target="-7.34526" 
+    clouds_01_target="-1.1242" 
+    clouds_02_target="-41.9322" 
     consume_actions="1" 
     damage_flash_multiplier="1" 
-    day_count="7" 
-    fog="0.465811" 
-    fog_target="0.460818" 
+    day_count="13" 
+    fog="0.110045" 
+    fog_target="0.10506" 
     global_genome_relations_modifier="0" 
     gore_multiplier="1" 
     gradient_sky_alpha_target="0" 
@@ -55,27 +55,27 @@
     rain_target="0" 
     session_stat_file="??STA/sessions/20251224-001525" 
     sky_sunset_alpha_target="1" 
-    time="0.751841" 
+    time="0.276508" 
     time_dt="1" 
-    time_total="6.74926" 
+    time_total="12.2313" 
     trick_kill_gold_multiplier="2" 
     twitch_has_been_active_during_this_run="0" 
-    wind="0.150347" 
-    wind_speed="9.02088" 
+    wind="0.273233" 
+    wind_speed="16.3941" 
     wind_speed_sin="3" 
     wind_speed_sin_t="10" >
     <lua_globals>
       <E 
         key="HELPLESS_KILLS" 
-        value="3" >
+        value="4" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_DEPTH" 
-        value="5" >
+        value="9" >
       </E>
       <E 
         key="HOLY_MOUNTAIN_VISITS" 
-        value="2" >
+        value="3" >
       </E>
       <E 
         key="ORB_MAP_STRING" 
@@ -107,7 +107,7 @@
       </E>
       <E 
         key="TEMPLE_NEXT_PERK_INDEX" 
-        value="7" >
+        value="10" >
       </E>
       <E 
         key="TEMPLE_SPAWN_GUARDIAN" 
@@ -115,11 +115,11 @@
       </E>
       <E 
         key="visited_biomes" 
-        value="$biome_snowcave,$biome_fungicave,$biome_holymountain,$biome_excavationsite,_EMPT" >
+        value="$biome_holymountain,$biome_snowcave,$biome_fungicave,$biome_excavationsite,$biom" >
       </E>
       <E 
         key="visited_biomes_count" 
-        value="10" >
+        value="17" >
       </E>
     </lua_globals>
     <pending_portals>
@@ -132,6 +132,9 @@
     <npc_parties>
     </npc_parties>
     <orbs_found_thisrun>
+      <primitive>
+        0
+      </primitive>
     </orbs_found_thisrun>
     <flags>
       <string>
@@ -166,6 +169,18 @@
       </string>
       <string>
         PERK_PICKED_RADAR_ENEMY
+      </string>
+      <string>
+        statue_hands_destroyed_1
+      </string>
+      <string>
+        PERK_REVENGE_BULLET
+      </string>
+      <string>
+        PERK_EXPLODING_GOLD
+      </string>
+      <string>
+        PERK_EXTRA_SLOTS
       </string>
     </flags>
     <changed_materials>

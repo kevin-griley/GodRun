@@ -1,4 +1,4 @@
-<Stats deaths="244" kills="95" player_kills="0" player_projectile_count="0" >
+<Stats deaths="254" kills="104" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="6" >
     </E>
@@ -38,7 +38,7 @@
     </E>
     <E key="player | $damage_fire" value="1" >
     </E>
-    <E key="player | $damage_projectile" value="92" >
+    <E key="player | $damage_projectile" value="102" >
     </E>
     <E key="player | $damage_slice" value="10" >
     </E>
@@ -68,7 +68,7 @@
     </E>
     <E key="pollen" value="1" >
     </E>
-    <E key="rat" value="57" >
+    <E key="rat" value="64" >
     </E>
     <E key="slimeshooter" value="3" >
     </E>
@@ -78,7 +78,7 @@
     </E>
     <E key="wizard_twitchy" value="1" >
     </E>
-    <E key="worm_tiny" value="2" >
+    <E key="worm_tiny" value="4" >
     </E>
   </kill_map>
 </Stats>

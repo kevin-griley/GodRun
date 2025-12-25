@@ -1,10 +1,10 @@
-<Stats deaths="2402" kills="997" player_kills="10" player_projectile_count="0" >
+<Stats deaths="2421" kills="1004" player_kills="10" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="122" >
     </E>
     <E key="NULL | $damage_electricity" value="27" >
     </E>
-    <E key="NULL | $damage_explosion" value="207" >
+    <E key="NULL | $damage_explosion" value="211" >
     </E>
     <E key="NULL | $damage_fire" value="234" >
     </E>
@@ -18,7 +18,7 @@
     </E>
     <E key="NULL | $damage_projectile" value="1" >
     </E>
-    <E key="NULL | $damage_radioactive" value="230" >
+    <E key="NULL | $damage_radioactive" value="231" >
     </E>
     <E key="NULL | damage from material: Poison" value="3" >
     </E>
@@ -106,7 +106,7 @@
     </E>
     <E key="player | $damage_plasmabeam" value="4" >
     </E>
-    <E key="player | $damage_projectile" value="868" >
+    <E key="player | $damage_projectile" value="881" >
     </E>
     <E key="player | $damage_slice" value="78" >
     </E>
@@ -142,7 +142,7 @@
     </E>
     <E key="worm_big | worm bite" value="30" >
     </E>
-    <E key="worm_tiny | worm bite" value="15" >
+    <E key="worm_tiny | worm bite" value="16" >
     </E>
     <E key="zombie | $damage_melee" value="1" >
     </E>
@@ -168,7 +168,7 @@
     </E>
     <E key="goblin_bomb" value="1" >
     </E>
-    <E key="iceskull" value="28" >
+    <E key="iceskull" value="29" >
     </E>
     <E key="miner" value="2" >
     </E>
@@ -188,7 +188,7 @@
     </E>
     <E key="potion" value="2" >
     </E>
-    <E key="rat" value="732" >
+    <E key="rat" value="738" >
     </E>
     <E key="scavenger_grenade" value="1" >
     </E>
